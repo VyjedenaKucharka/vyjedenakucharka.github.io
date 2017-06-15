@@ -1,0 +1,15 @@
+<div id="navigation">
+{% if page.category %}
+  <h1>{{ page.category | capitalize }}</h1>
+    <ul class="nav sidenav">
+    {% assign recepty = site.recepty | where: "category", page.category %}
+    {% for node in recepty %}
+      <li class="active"><a href="{{ node.url | prepend: site.baseurl }}" class="active">{{ node.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% else %}
+  <h1>...hmm co sem?</h1>
+  <ul class="nav sidenav">
+  </ul>
+{% endif %}
+</div>

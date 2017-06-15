@@ -1,0 +1,27 @@
+name: Vyjedená kuchařka
+author: Jana Kazmar
+url: http://vyjedenakucharka.github.io/
+description: Vaření, vaření, konec tomu není ...
+meta_description: Vaření, kuchařka, recepty.
+motto: Vyjedená kuchařka
+
+permalink: /:year/:month/:day/:title/
+
+exclude: ['README.md']
+
+markdown: kramdown
+
+collections:
+  recepty:
+    output: true
+    permalink: /recepty/:path/
+
+FB:
+  comments :
+    disqus :
+        short_name : gatagat
+    # facebook :
+    #   appid : 123
+    #   num_posts: 5
+    #   width: 580
+    #   colorscheme: light
