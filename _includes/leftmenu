@@ -12,6 +12,11 @@
   <ul class="nav sidenav">
     <li><a href="/sladke/">Sladké</a></li>
     <li><a href="/slane/">Slané</a></li>
+    <li><a href="/salaty/">Saláty</a></li>
+    <li><a href="/pomazanky/">Pomazánky</a></li>
+    <li><a href="/polevky/">Polévky</a></li>
+    <li><a href="/napoje/">Nápoje</a></li>
+    <li><a href="/cukrovi/">Cukroví</a></li>
   </ul>
 {% endif %}
 </div>
