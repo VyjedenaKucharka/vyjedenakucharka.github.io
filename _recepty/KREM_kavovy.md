@@ -1,6 +1,6 @@
 ---
 layout: recept
-title:  "DORT čoko-malinový"
+title:  "KRÉM kávový (jíškový)"
 category: sladké
 ---
 
@@ -8,45 +8,25 @@ category: sladké
 
 <div class="ingredience" markdown="1">
 
-1 bal.
-:  maliny (zmrzlé, aby byly dost kyselé)
+50g
+: máslo
 
-### Korpus
+80g
+: hl. mouka
 
-90g
+100g
 : cukr
 
-3 ks
-: vejce
+¼ l
+: káva
 
-3 LŽ.
-: horké vody
+<br> 
 
-90g
-: hr. mouka
+140g
+: máslo
 
-2 lž.
-: kakao
-
-&nbsp;
-: rum (na pokapání korpusu)
-
-### Náplň
-
-1 ks
-: šlehačka
-
-2 ks
-: zakysaná smetana
-
-2 LŽ.
+50g
 : cukr
-
-1 ks
-: želatina (nebo 1 bal. ztužovač šlehačky)
-
-1 LŽ.
-: kakao
 
 </div>
 
@@ -54,15 +34,8 @@ category: sladké
 
 <div class="postup" markdown="1">  
 
-- našlehám cukr se žloutky do pěny, přidám horkou vodu a zase našlehám
-- přidáme všechno ostatní, smíchám a naliji do formy
-- peču na 180°, 15 minut
-- smícháme zakysanou smetanu s cukrem, pak přidáme ušlehanou šlehačku a nakonec želatinu nebo ztužovač šlehačky (ten můžeme dát už předem do šlehačky)
-- zcela vychladlý korpus pokapeme rumem
-- šlehačku si rozdělíme na 2 poloviny, do jedné přimícháme kakao a dáme na korpus
-- poklademe malinami
-- zakryjeme 2. polovinou bílé šlehačky
-- navrch můžeme ozdobit nastrouhanou čokoládou 
-- přes noc nechat v lednici
+- z másla a hl. mouky udělat jíšku, pak do ní přidat cukr
+- až to začne “karamelizovat”, tak postupně po lžičkách přidat kávu
+- až hmota **zcela** vychladne, tak přidat máslo utřené s cukrem
      
 </div>
