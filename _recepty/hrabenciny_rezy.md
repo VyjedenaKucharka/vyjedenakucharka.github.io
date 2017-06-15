@@ -1,6 +1,6 @@
 ---
 layout: recept
-title:  "DORT čoko-malinový"
+title:  "Hraběnčiny řezy"
 category: sladké
 ---
 
@@ -8,45 +8,40 @@ category: sladké
 
 <div class="ingredience" markdown="1">
 
-1 bal.
-:  maliny (zmrzlé, aby byly dost kyselé)
+200ml
+: máslo (změklé)
 
-### Korpus
-
-90g
+200g
 : cukr
 
-3 ks
-: vejce
+4 ks
+: žloutky
 
-3 LŽ.
-: horké vody
-
-90g
+450g
 : hr. mouka
 
-2 lž.
-: kakao
+½ ks
+: PdP
 
-&nbsp;
-: rum (na pokapání korpusu)
+### NÁPLŇ:
 
-### Náplň
-
-1 ks
-: šlehačka
-
-2 ks
-: zakysaná smetana
-
-2 LŽ.
+200g
 : cukr
 
-1 ks
-: želatina (nebo 1 bal. ztužovač šlehačky)
+50g
+: rozinky (přelít horkou vodou)
 
-1 LŽ.
-: kakao
+1 lž.
+: skořice
+
+4 ks
+: bílky (sníh)
+
+100g
+: vlašských ořechů
+
+600g
+: jablek
 
 </div>
 
@@ -54,15 +49,12 @@ category: sladké
 
 <div class="postup" markdown="1">  
 
-- našlehám cukr se žloutky do pěny, přidám horkou vodu a zase našlehám
-- přidáme všechno ostatní, smíchám a naliji do formy
-- peču na 180°, 15 minut
-- smícháme zakysanou smetanu s cukrem, pak přidáme ušlehanou šlehačku a nakonec želatinu nebo ztužovač šlehačky (ten můžeme dát už předem do šlehačky)
-- zcela vychladlý korpus pokapeme rumem
-- šlehačku si rozdělíme na 2 poloviny, do jedné přimícháme kakao a dáme na korpus
-- poklademe malinami
-- zakryjeme 2. polovinou bílé šlehačky
-- navrch můžeme ozdobit nastrouhanou čokoládou 
-- přes noc nechat v lednici
+- žloutky vyšleháme s cukrem, pak přidáme změklé máslo a nakonec mouku s práškem do pečiva
+- ⅔ těsta namačkáme na plech a ⅓ dáme do lednice, aby ztuhla
+- na plech s těstem nastrouháme jablka, posypeme skořicí, cukrem, rozinkami a najemno nasekanými vlašskými ořechy
+- celé to překryjeme tuhým sněhem
+- těsto z lednice nastrouháme na hrubém struhadle a dáme na sníh
+- pečeme ve vyhřátá troubě na 180°
+- když těsto začne růžovět, je hotovo
      
 </div>
