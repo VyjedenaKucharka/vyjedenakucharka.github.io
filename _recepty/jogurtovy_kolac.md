@@ -1,6 +1,6 @@
 ---
 layout: recept
-title:  "DORT čoko-malinový"
+title:  "Jogurtový koláč s ovocem"
 category: sladké
 ---
 
@@ -8,45 +8,49 @@ category: sladké
 
 <div class="ingredience" markdown="1">
 
-1 bal.
-:  maliny (zmrzlé, aby byly dost kyselé)
+200ml
+: bílý jogurt
 
-### Korpus
-
-90g
+100g
 : cukr
-
-3 ks
-: vejce
-
-3 LŽ.
-: horké vody
-
-90g
-: hr. mouka
-
-2 lž.
-: kakao
-
-&nbsp;
-: rum (na pokapání korpusu)
-
-### Náplň
-
-1 ks
-: šlehačka
 
 2 ks
-: zakysaná smetana
+: vejce
 
-2 LŽ.
-: cukr
+5 LŽ.
+: olej
+
+100g
+: hl. mouka
+
+80g
+: hr. mouka
+
+½ ks
+: PdP
 
 1 ks
-: želatina (nebo 1 bal. ztužovač šlehačky)
+: vanilkový cukr
 
-1 LŽ.
-: kakao
+500g
+: ovoce (např. švestky, meruňky ap.)
+
+&nbsp;
+: tuk na vymazání plechu
+
+### DROBENKA:
+
+60g
+: hr. mouka
+
+50g
+: cukr
+
+50g
+: máslo
+
+&nbsp;
+: (skořice u švestkového koláče)
 
 </div>
 
@@ -54,15 +58,9 @@ category: sladké
 
 <div class="postup" markdown="1">  
 
-- našlehám cukr se žloutky do pěny, přidám horkou vodu a zase našlehám
-- přidáme všechno ostatní, smíchám a naliji do formy
-- peču na 180°, 15 minut
-- smícháme zakysanou smetanu s cukrem, pak přidáme ušlehanou šlehačku a nakonec želatinu nebo ztužovač šlehačky (ten můžeme dát už předem do šlehačky)
-- zcela vychladlý korpus pokapeme rumem
-- šlehačku si rozdělíme na 2 poloviny, do jedné přimícháme kakao a dáme na korpus
-- poklademe malinami
-- zakryjeme 2. polovinou bílé šlehačky
-- navrch můžeme ozdobit nastrouhanou čokoládou 
-- přes noc nechat v lednici
+- všechno smícháme a nalijeme na plech
+- ovoce rozpůlíme a dáme na těsto šlupkami dolů
+- nakonec to posypeme drobenkou
+- 180°, 30 min.
      
 </div>
