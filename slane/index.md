@@ -8,7 +8,7 @@ category: slané
   <div class="row">
     <div class="col-md-3">
       <div class="sidebar hidden-print" role="complementary">
-        {% include lefttree.html %}
+        {% include leftmenu %}
       </div>
     </div>
     <div class="col-md-9" role="main">
