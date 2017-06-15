@@ -6,6 +6,8 @@ category: sladké
 
 <br>
 
+<img src="/img/dort_coko-malinovy.jpg" alt="Dort čoko-malinový" width="200px" style="float: right; margin-right: 80px"/>
+
 <div class="ingredience" markdown="1">
 
 1 bal.
