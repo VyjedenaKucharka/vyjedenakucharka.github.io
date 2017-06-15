@@ -73,9 +73,9 @@ category: sladké
 - nakonec vyšlehat sníh se solí a opatrně vmíchat
 - pečeme na 160°, 45 min. 
 - Krém: skládá se ze 3 částí, které se nakonec spojí
-  1. ve vodní lázni rozpustit čokoládu, za stálého míchání přidat 6 lžic cukru a 2 žloutky. Takto míchat ca. 2 minuty, pak odstavit
-  2. smíchat mouku s trochou mléka a vytvořit hustou kašičku bez hrudek. Zbytek mléka dát do kastrolu, začít zahřívat a postupně vmíchat tu kašičku (postup jako u pudingu). “Puding” chvíli povaříme, pak odstavíme a postupně po lžičkách! do něj vmícháme čokoládovou část 1. Vše necháme zcela vychladnout
-  3. máslo utřeme s vanilkovým cukrem. Nakonec vše smícháme (1+2+3)
+  * A. ve vodní lázni rozpustit čokoládu, za stálého míchání přidat 6 lžic cukru a 2 žloutky. Takto míchat ca. 2 minuty, pak odstavit
+  * B. smíchat mouku s trochou mléka a vytvořit hustou kašičku bez hrudek. Zbytek mléka dát do kastrolu, začít zahřívat a postupně vmíchat tu kašičku (postup jako u pudingu). “Puding” chvíli povaříme, pak odstavíme a postupně po lžičkách! do něj vmícháme čokoládovou část A. Vše necháme zcela vychladnout
+  * C. máslo utřeme s vanilkovým cukrem. Nakonec vše smícháme (A+B+C)
 - krém vystačí na 1 vrstvu + natření dortu z vrchu i ze stran
 - jednotlivé vrstvy korpusu můžeme potřít směsí kávy s rumem
 - složení dortu: korpus, krém, korpus, marmeláda, korpus. Celé to potřít krémem
