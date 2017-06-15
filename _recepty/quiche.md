@@ -46,7 +46,7 @@ category: slané
 
 <br>
 <br>
-**### NÁPLNĚ:**<br><br>
+### **NÁPLNĚ:**<br><br>
 *SLANINA, CIBULE, TYMIÁN*
 
 1ks
