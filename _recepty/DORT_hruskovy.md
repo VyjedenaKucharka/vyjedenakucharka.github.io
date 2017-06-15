@@ -1,6 +1,6 @@
 ---
 layout: recept
-title:  "DORT čoko-malinový"
+title:  "DORT hruškový"
 category: sladké
 ---
 
@@ -8,45 +8,53 @@ category: sladké
 
 <div class="ingredience" markdown="1">
 
-1 bal.
-:  maliny (zmrzlé, aby byly dost kyselé)
+### KORPUS:
 
-### Korpus
-
-90g
-: cukr
-
-3 ks
-: vejce
-
-3 LŽ.
-: horké vody
-
-90g
+75g
 : hr. mouka
 
-2 lž.
-: kakao
-
-&nbsp;
-: rum (na pokapání korpusu)
-
-### Náplň
-
-1 ks
-: šlehačka
-
-2 ks
-: zakysaná smetana
-
-2 LŽ.
+75g
 : cukr
 
-1 ks
-: želatina (nebo 1 bal. ztužovač šlehačky)
+100ml
+: zakysaná smetana
 
-1 LŽ.
+60g
+: másla (změklého)
+
+15g
 : kakao
+
+½ lž.
+: PdP
+
+1 ks
+: vejce (malé)
+
+### NÁPLŇ:
+
+1 ks
+: hruškový kompot (nebo 6 hrušek + skořice + hřebíček)
+
+1 hrst
+: vlašské ořechy
+
+(3 LŽ.
+: medu)
+
+### KRÉM:
+
+100g
+: hořká čokoláda
+
+250g
+: tvaroh
+
+250ml
+: šlehačka
+
+1-5 LŽ.
+: cukr
 
 </div>
 
@@ -54,15 +62,12 @@ category: sladké
 
 <div class="postup" markdown="1">  
 
-- našlehám cukr se žloutky do pěny, přidám horkou vodu a zase našlehám
-- přidáme všechno ostatní, smíchám a naliji do formy
-- peču na 180°, 15 minut
-- smícháme zakysanou smetanu s cukrem, pak přidáme ušlehanou šlehačku a nakonec želatinu nebo ztužovač šlehačky (ten můžeme dát už předem do šlehačky)
-- zcela vychladlý korpus pokapeme rumem
-- šlehačku si rozdělíme na 2 poloviny, do jedné přimícháme kakao a dáme na korpus
-- poklademe malinami
-- zakryjeme 2. polovinou bílé šlehačky
-- navrch můžeme ozdobit nastrouhanou čokoládou 
-- přes noc nechat v lednici
+- těsto: vše smícháme a dáme péct na 180°, 15-20 min.
+- pokud si připravujeme vlastní hrušky, tak je napůlíme, vyndáme jádřinec a povaříme ve vodě se skořicí a hřebíčkem do měkka (nesmí se z nich ale stát bláto, musí držet tvar)
+- na vychladlý korpus dáme napůlené hrušky, do každého důlku po jadřinci dáme ořech a zakápneme medem
+- z kousku čokolády si vyrobíme hobliny na ozdobu dortu (ty mají tendenci se rozpouštět, asi bych je dala do lednice)
+- zbylou čokoládu rozpustíme ve vodní lázni
+- tvaroh ušleháme s cukrem a postupně přidáváme čokoládu
+- nakonec do krému zamíchám ušlehanou šlehačku
      
 </div>
