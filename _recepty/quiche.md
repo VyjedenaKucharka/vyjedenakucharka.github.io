@@ -87,13 +87,26 @@ category: slané
 300g
 : špenát (nechat rozmrznout a osušit)
 
-česnek
-- 3ks    vejce
-- 80ml    smetana na vaření
-- 60ml    mléko
-- 100g    lučiny nebo ovčího tvarohu ap.
-- 40g    parmazán (+ nějaký na podávání)
-- sůl, pepř
+&nbsp;
+: česnek
+
+3ks
+: vejce
+
+80ml
+: smetana na vaření
+
+60ml
+: mléko
+
+100g
+: lučiny nebo ovčího tvarohu ap.
+
+40g
+: parmazán (+ nějaký na podávání)
+
+&nbsp;
+: sůl, pepř
 
 </div>
 
@@ -108,15 +121,33 @@ category: slané
 
 <br>
 *RAJČATA, KOZÍ SÝR*
-- 3 ks    vejce
-- 80ml    smetany na vaření
-- 60ml    mléko
-- 15g    parmazán
-- 150g    měkký kozí sýr
-- 150g    cherry rajčátka
-- 1 LŽ.    olivový olej
-- 2 LŽ.    oregáno (čerstvých lístků)
-- sůl, pepř
+
+3 ks
+: vejce
+
+80ml
+: smetany na vaření
+
+60ml
+: mléko
+
+15g
+: parmazán
+
+150g
+: měkký kozí sýr
+
+150g
+: cherry rajčátka
+
+1 LŽ.
+: olivový olej
+
+2 LŽ.
+: oregáno (čerstvých lístků)
+
+&nbsp;
+: sůl, pepř
 
 </div>
 
