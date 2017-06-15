@@ -7124,8 +7124,9 @@ td.visible-print {
 }
 
 .ingredience dl {
-  padding: 0 0.5em .5em 1.5em;
-  margin-top: 0;
+  padding: 0 0.5em 0 1.5em;
+  margin-top: 0.1em;
+  margin-bottom: 0.1em;
 }
 .ingredience dt {
   float: left;
@@ -7140,4 +7141,11 @@ td.visible-print {
 .ingredience dd {
   margin: 0;
   padding: 0;
+}
+
+h3 {
+    font-size: 12pt;
+    margin-bottom: 0.2em;
+    margin-top: 0.1em;
+    text-transform: uppercase;
 }
