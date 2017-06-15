@@ -6,6 +6,8 @@ category: sladké
 
 <br>
 
+<img src="/img/dort_vlasske_orechy.jpg" alt="Dort s vlašskými ořechy" width="200px" style="float: right; margin-right: 80px"/>
+
 <div class="ingredience" markdown="1">
 
 ### Korpus
@@ -82,5 +84,3 @@ category: sladké
 - můžeme ozdobit koupenými čokoládovými kuličkami (průměr ideálně 1,5cm)
 
 </div>
-
-![Dort s vlašskými ořechy](/img/dort_vlasske_orechy.jpg)
