@@ -1,6 +1,6 @@
 ---
 layout: recept
-title:  "DORT čoko-malinový"
+title:  "Jidáše (od Hanky Šp.)"
 category: sladké
 ---
 
@@ -8,45 +8,35 @@ category: sladké
 
 <div class="ingredience" markdown="1">
 
-1 bal.
-:  maliny (zmrzlé, aby byly dost kyselé)
-
-### Korpus
-
-90g
-: cukr
-
-3 ks
-: vejce
-
-3 LŽ.
-: horké vody
-
-90g
-: hr. mouka
-
-2 lž.
-: kakao
-
-&nbsp;
-: rum (na pokapání korpusu)
-
-### Náplň
-
-1 ks
-: šlehačka
-
-2 ks
-: zakysaná smetana
+500g
+: hr.+hl. mouka
 
 2 LŽ.
 : cukr
 
-1 ks
-: želatina (nebo 1 bal. ztužovač šlehačky)
+42g
+: droždí (1 kostka)
 
-1 LŽ.
-: kakao
+&nbsp;
+: citronová kůra
+
+šp.
+: sůl
+
+¼ l
+: mléko
+
+2 ks
+: žloutky
+
+2 ks
+: bílky na potření
+
+&nbsp;
+: mandle (nasekané na ¼ nebo hobliny)
+
+&nbsp;
+: rozinky
 
 </div>
 
@@ -54,15 +44,10 @@ category: sladké
 
 <div class="postup" markdown="1">  
 
-- našlehám cukr se žloutky do pěny, přidám horkou vodu a zase našlehám
-- přidáme všechno ostatní, smíchám a naliji do formy
-- peču na 180°, 15 minut
-- smícháme zakysanou smetanu s cukrem, pak přidáme ušlehanou šlehačku a nakonec želatinu nebo ztužovač šlehačky (ten můžeme dát už předem do šlehačky)
-- zcela vychladlý korpus pokapeme rumem
-- šlehačku si rozdělíme na 2 poloviny, do jedné přimícháme kakao a dáme na korpus
-- poklademe malinami
-- zakryjeme 2. polovinou bílé šlehačky
-- navrch můžeme ozdobit nastrouhanou čokoládou 
-- přes noc nechat v lednici
+- nechat nakynout droždí ve vlažném mléce s cukrem
+- pak přidat zbytek
+- nechat tak 1,5 hod. kynout, pak propracovat
+- nechat znovu asi 1 hod. kynout, pak vytvarovat jidáše
+- a ještě jednou nechat na plechu alespoň 0,5 hod. kynout
      
 </div>
