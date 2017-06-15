@@ -82,3 +82,5 @@ category: sladké
 - můžeme ozdobit koupenými čokoládovými kuličkami (průměr ideálně 1,5cm)
 
 </div>
+
+![Dort s vlašskými ořechy](/img/dort_vlasske_orechy.jpg)
