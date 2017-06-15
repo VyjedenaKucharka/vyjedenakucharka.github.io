@@ -6,6 +6,8 @@ category: sladké
 
 <br>
 
+<img src="/img/dort_hruskovy.jpg" alt="Dort hruškový" width="200px" style="float: right; margin-right: 80px"/>
+
 <div class="ingredience" markdown="1">
 
 ### KORPUS:
