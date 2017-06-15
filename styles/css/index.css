@@ -6115,12 +6115,12 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #43759e;
+  color: #333;
   text-decoration: none;
 }
 a:hover,
 a:focus {
-  color: #2c4d68;
+  color: #333;
   text-decoration: underline;
 }
 a:focus {
@@ -6449,7 +6449,6 @@ hr {
 /* All levels of nav */
 .sidebar .nav > li > a {
   display: block;
-  color: #36556e;
   padding: 5px 20px;
 }
 .sidebar .nav > li > a:hover,
