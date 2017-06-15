@@ -46,15 +46,29 @@ category: slané
 
 <br>
 <br>
-**NÁPLNĚ:**<br><br>
+**### NÁPLNĚ:**<br><br>
 *SLANINA, CIBULE, TYMIÁN*
-- 1ks    cibule (velká)
-- 200g    slanina (nakrájet na proužky)
-- 1 LŽ.    tymián (čerstvého)
-- 3 ks    vejce
-- 80ml    smetany na vaření
-- 60ml    mléko
-- 25g    čedar
+
+1ks
+: cibule (velká)
+
+200g
+: slanina (nakrájet na proužky)
+
+1 LŽ.
+: tymián (čerstvého)
+
+3 ks
+: vejce
+
+80ml
+: smetany na vaření
+
+60ml
+: mléko
+
+25g
+: čedar
 
 </div>
 
@@ -69,8 +83,11 @@ category: slané
 
 <br>
 *ŠPENÁT*
-- 300g     špenát (nechat rozmrznout a osušit)
-- česnek
+
+300g
+: špenát (nechat rozmrznout a osušit)
+
+česnek
 - 3ks    vejce
 - 80ml    smetana na vaření
 - 60ml    mléko
