@@ -1,6 +1,6 @@
 ---
 layout: recept
-title:  "Koprová omáčka"
+title:  "Musaka s cuketou"
 category: slané
 ---
 
@@ -8,26 +8,61 @@ category: slané
 
 <div class="ingredience" markdown="1">
 
-500ml
-: hovězí vývar
+750g
+: cuketa (nakrájíme podél na 0,5cm plátky)
 
-5 LŽ.
-: hl. mouka
-
-3 LŽ.
-: olej
-
-3 LŽ.
-: máslo
-
-500ml
-: pln. mléko (min. pokojové teploty, lépe teplé)
-
-250ml
-: šlehačka (pokojové teploty)
+350g
+: mleté maso
 
 &nbsp;
-: pepř (bílý), sůl, cukr, ocet, kopr
+: olivový olej
+
+2 ks
+: cibule (najemno nakrájet)
+
+2 lž.
+: drcený česnek
+
+1 lž.
+: skořice mletá
+
+1 lž.
+: oregano
+
+&nbsp;
+: sůl, pepř
+
+200ml
+: drůbeží vývar
+
+100g
+: rýže
+
+150g
+: mražených (nebo 200g čerstvých) špenátových listů
+
+240g
+: rajčatový protlak
+
+### na pokličku:
+
+2 LŽ.
+: máslo
+
+2 LŽ.
+: hl. mouka
+
+375ml
+: mléko
+
+2 ks
+: vejce (velká)
+
+&nbsp;
+: sůl
+
+30-50g
+: parmazán strouhaný
 
 </div>
 
@@ -35,10 +70,16 @@ category: slané
 
 <div class="postup" markdown="1">  
 
-- jíška: olej, máslo, mouka, až se bude zdát, že je hotová, tak přidat část kopru a ztlumit oheň
-- vlijeme horký vývar, pak zcela stáhneme z ohně a necháme 5 minut odpočívat
-- vlijeme mléko a pak i tu šlehačku (tu vlijeme buď samotnou nebo pokud se nám zdá, že je omáčka moc řídká, tak smíchanou s moukou)
-- nakonec přidáme zbytek kopru a dochutíme **trochou** pepře, solí, cukrem a octem
-- na velice mírném ohni vaříme ještě asi 15-20 minut
+- v nepřilnavé pánvi přivedeme k varu 0,5l vody, vložíme cukety, zakryjeme a 10 minut dusíme. Pak slijeme a osušíme papírovou utěrkou
+- pánev osušit, nalít olej a opékat dozlatova maso s cibulí (rozbíjet při tom hruhky)
+- pak se přidá česnek a ještě 1 minutu se to míchá
+- přidat koření, sůl, vývar, rýži a špenát, přiklopit a 10 minut dusit, aby špenát rozmrznul/ zavadnul
+- nakonec vmíchat protlak a stáhnout z ohně
+- zapékací mísu vymažeme tukem, vložíme 1./2 cuket, na to dáme masovou směs a zakončit 2./2 cuket
+- v rendlíku rozpustíme máslo, přidáme mouku a 2 minuty mícháme (aby zůstala světlá)
+- postupně přidáme mléko (je dobré si ho předem ohřát) a necháme 4-5 minut vařit
+- nechat trochu zchladnout, pak zašlehat vejce a osolit
+- vaječným bešamelem přelijeme cukety, posypeme parmazánem a dáme zapéct
+- 180°, 20-25 minut
 
 </div>
