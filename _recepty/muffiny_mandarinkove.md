@@ -1,6 +1,6 @@
 ---
 layout: recept
-title:  "Muffiny mandarinkový"
+title:  "Muffiny mandarinkové"
 category: sladké
 ---
 
