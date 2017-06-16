@@ -13,7 +13,7 @@ category: sladké
 1 bal.
 :  maliny (zmrzlé, aby byly dost kyselé)
 
-### Korpus
+### Korpus:
 
 90g
 : cukr
@@ -33,7 +33,7 @@ category: sladké
 &nbsp;
 : rum (na pokapání korpusu)
 
-### Náplň
+### Náplň:
 
 1 ks
 : šlehačka
