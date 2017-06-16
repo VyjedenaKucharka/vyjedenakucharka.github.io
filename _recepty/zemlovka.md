@@ -1,54 +1,39 @@
 ---
 layout: recept
-title:  "DORT čoko-malinový"
+title:  "Žemlovka"
 category: sladké
 ---
 
 <br>
 
-<img src="/img/dort_coko-malinovy.jpg" alt="Dort čoko-malinový" width="200px" style="float: right; margin-right: 80px"/>
-
 <div class="ingredience" markdown="1">
 
-1 bal.
-:  maliny (zmrzlé, aby byly dost kyselé)
+250g
+: tvaroh
 
-### Korpus
+½ ks
+: vanilkový puding
 
-90g
-: cukr
-
-3 ks
+1+2 ks
 : vejce
 
-3 LŽ.
-: horké vody
+80g
+: rozinky (namočené v rumu)
 
-90g
-: hr. mouka
+4 ks
+: housky (nebo 8 plátků toustového chleba velkého)
 
-2 lž.
-: kakao
+500ml
+: mléko
 
-&nbsp;
-: rum (na pokapání korpusu)
-
-### Náplň
-
-1 ks
-: šlehačka
+100g
+: máslo
 
 2 ks
-: zakysaná smetana
+: jablka (velká)
 
-2 LŽ.
-: cukr
-
-1 ks
-: želatina (nebo 1 bal. ztužovač šlehačky)
-
-1 LŽ.
-: kakao
+&nbsp;
+: cukr, skořice
 
 </div>
 
@@ -56,15 +41,14 @@ category: sladké
 
 <div class="postup" markdown="1">  
 
-- našlehám cukr se žloutky do pěny, přidám horkou vodu a zase našlehám
-- přidáme všechno ostatní, smíchám a naliji do formy
-- peču na 180°, 15 minut
-- smícháme zakysanou smetanu s cukrem, pak přidáme ušlehanou šlehačku a nakonec želatinu nebo ztužovač šlehačky (ten můžeme dát už předem do šlehačky)
-- zcela vychladlý korpus pokapeme rumem
-- šlehačku si rozdělíme na 2 poloviny, do jedné přimícháme kakao a dáme na korpus
-- poklademe malinami
-- zakryjeme 2. polovinou bílé šlehačky
-- navrch můžeme ozdobit nastrouhanou čokoládou 
-- přes noc nechat v lednici
+- nejdřív namočím rozinky do rumu (ideálně přes noc)
+- smíchám tvaroh, cukr, 1 vejce, puding a až před kladením do mísy přidám i rozinky (bez rumu)
+- jablka oloupeme a nastrouháme na plátky
+- housky nakrájíme na 1cm tlusté plátky
+- zapékací mísu si silně vytřeme máslem
+- v talíři si smícháme mléko se zbylými 2 vejci a v tom pak namáčíme housky
+- na dno zapékací mísy dáme 2 namočené housky, na to tvaroh, pak jablka - ty posypeme cukrem a skořicí a zakončíme 2. polovinou housek namočených v mléce
+- nahoru rovnoměrně dáme máslo
+- zapečeme na 180°, 35-40 min.
      
 </div>
