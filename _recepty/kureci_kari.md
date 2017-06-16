@@ -1,6 +1,6 @@
 ---
 layout: recept
-title:  "Koprová omáčka"
+title:  "Kuřecí kari s rozinkami"
 category: slané
 ---
 
@@ -8,26 +8,44 @@ category: slané
 
 <div class="ingredience" markdown="1">
 
-500ml
-: hovězí vývar
+285g
+: kuřecí prsíčka
 
-5 LŽ.
-: hl. mouka
-
-3 LŽ.
-: olej
+510g
+: těstoviny (penne)
 
 3 LŽ.
+: rozinky
+
+55g
 : máslo
 
-500ml
-: pln. mléko (min. pokojové teploty, lépe teplé)
+1 LŽ.
+: olivový olej
 
-250ml
-: šlehačka (pokojové teploty)
+115g
+: smetana
+
+125ml
+: bílé víno
+
+2 LŽ.
+: mléko
+
+1 LŽ.
+: kari
+
+1 ks
+: stroužek česneku (prolisovat)
+
+2 listy
+: bobkový list
+
+55g
+: krájených mandlí
 
 &nbsp;
-: pepř (bílý), sůl, cukr, ocet, kopr
+: sůl
 
 </div>
 
@@ -35,10 +53,9 @@ category: slané
 
 <div class="postup" markdown="1">  
 
-- jíška: olej, máslo, mouka, až se bude zdát, že je hotová, tak přidat část kopru a ztlumit oheň
-- vlijeme horký vývar, pak zcela stáhneme z ohně a necháme 5 minut odpočívat
-- vlijeme mléko a pak i tu šlehačku (tu vlijeme buď samotnou nebo pokud se nám zdá, že je omáčka moc řídká, tak smíchanou s moukou)
-- nakonec přidáme zbytek kopru a dochutíme **trochou** pepře, solí, cukrem a octem
-- na velice mírném ohni vaříme ještě asi 15-20 minut
+- rozinky dáme na ca. 15 minut do horké vody, aby nabobtnaly
+- maso nakrájíme a osmažíme
+- uvaříme těstoviny
+- vše ostatní smícháme a necháme asi 15-20 minut vařit
 
 </div>
