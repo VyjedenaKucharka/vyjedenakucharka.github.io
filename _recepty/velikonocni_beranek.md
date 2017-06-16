@@ -26,3 +26,15 @@ category: sladké
 : rum
      
 </div>
+
+## Postup
+
+<div class="postup" markdown="1">  
+
+- máslo utřu s cukrem
+- pak přidám vejce
+- pak všechny suché ingredience
+- nakonec rum
+- peču na 140-160°, asi 1 hod.
+     
+</div>
