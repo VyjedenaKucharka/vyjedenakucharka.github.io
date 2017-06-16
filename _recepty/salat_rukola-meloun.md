@@ -31,8 +31,8 @@ category: saláty
 2 LŽ.
 : petrželka (nasekaná)
 
-2 stroužky
-: česneku
+2 
+: stroužky česneku
 
 &nbsp;
 : sůl, pepř
