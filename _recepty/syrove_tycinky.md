@@ -1,6 +1,6 @@
 ---
 layout: recept
-title:  "Koprová omáčka"
+title:  "Sýrové tyčinky (od mamky)"
 category: slané
 ---
 
@@ -8,37 +8,28 @@ category: slané
 
 <div class="ingredience" markdown="1">
 
-500ml
-: hovězí vývar
+100g
+: sýra (najemno nastrouhat, např. eidam)
 
-5 LŽ.
-: hl. mouka
-
-3 LŽ.
-: olej
-
-3 LŽ.
+80g
 : máslo
 
-500ml
-: pln. mléko (min. pokojové teploty, lépe teplé)
+100g
+: hl. mouka
 
-250ml
-: šlehačka (pokojové teploty)
+½ lž.
+: PdP
+
+2 LŽ.
+: zakysaná smetana
 
 &nbsp;
-: pepř (bílý), sůl, cukr, ocet, kopr
+: sůl, sladká paprika, bílý pepř
 
-</div>
+1 ks
+: žloutek na potření
 
-## Postup
-
-<div class="postup" markdown="1">  
-
-- jíška: olej, máslo, mouka, až se bude zdát, že je hotová, tak přidat část kopru a ztlumit oheň
-- vlijeme horký vývar, pak zcela stáhneme z ohně a necháme 5 minut odpočívat
-- vlijeme mléko a pak i tu šlehačku (tu vlijeme buď samotnou nebo pokud se nám zdá, že je omáčka moc řídká, tak smíchanou s moukou)
-- nakonec přidáme zbytek kopru a dochutíme **trochou** pepře, solí, cukrem a octem
-- na velice mírném ohni vaříme ještě asi 15-20 minut
+&nbsp;
+: sýr, kmín, sezamové semínko na posypání
 
 </div>
