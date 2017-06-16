@@ -1,70 +1,56 @@
 ---
 layout: recept
-title:  "DORT čoko-malinový"
+title:  "Muffiny jablečné"
 category: sladké
 ---
 
-<br>
+(12 VELKÝCH)
 
-<img src="/img/dort_coko-malinovy.jpg" alt="Dort čoko-malinový" width="200px" style="float: right; margin-right: 80px"/>
+<br>
 
 <div class="ingredience" markdown="1">
 
-1 bal.
-:  maliny (zmrzlé, aby byly dost kyselé)
+75g
+: máslo
 
-### Korpus
-
-90g
+100g
 : cukr
 
-3 ks
-: vejce
+125g
+: hl. mouka
 
-3 LŽ.
-: horké vody
+100g
+: pol. mouka
 
-90g
-: hr. mouka
+3 lž.
+: PdP
 
-2 lž.
-: kakao
+1 lž.
+: skořice
 
-&nbsp;
-: rum (na pokapání korpusu)
+1 lž.
+: zázvor (čerstvého nebo ½ lž. sušeného)
 
-### Náplň
+225ml
+: podmáslí
 
-1 ks
-: šlehačka
+100g
+: jablek (nakrájených na kostičky)
 
-2 ks
-: zakysaná smetana
+100g
+: jablek (oloupaných a nastrouhaných)
 
-2 LŽ.
-: cukr
-
-1 ks
-: želatina (nebo 1 bal. ztužovač šlehačky)
-
-1 LŽ.
-: kakao
-
+šp.
+: sůl
+ 
 </div>
 
 ## Postup
 
 <div class="postup" markdown="1">  
 
-- našlehám cukr se žloutky do pěny, přidám horkou vodu a zase našlehám
-- přidáme všechno ostatní, smíchám a naliji do formy
-- peču na 180°, 15 minut
-- smícháme zakysanou smetanu s cukrem, pak přidáme ušlehanou šlehačku a nakonec želatinu nebo ztužovač šlehačky (ten můžeme dát už předem do šlehačky)
-- zcela vychladlý korpus pokapeme rumem
-- šlehačku si rozdělíme na 2 poloviny, do jedné přimícháme kakao a dáme na korpus
-- poklademe malinami
-- zakryjeme 2. polovinou bílé šlehačky
-- navrch můžeme ozdobit nastrouhanou čokoládou 
-- přes noc nechat v lednici
+- nejprv utřeme máslo s cukrem
+- pak přidáme zbytek
+- 200°, 25 min. (muffiny jdou za tepla špatně z košíčků, možná péct přímo ve vymazané formě)
      
 </div>
