@@ -1,6 +1,6 @@
 ---
 layout: recept
-title:  "DORT čoko-malinový"
+title:  "Rybízová bublanina"
 category: sladké
 ---
 
