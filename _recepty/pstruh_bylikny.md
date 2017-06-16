@@ -23,7 +23,7 @@ category: slané
 8 ks
 : stroužků česneku
 
-150-200g
+150-200
 : máslo
 
 1 ks
