@@ -1,54 +1,47 @@
 ---
 layout: recept
-title:  "DORT čoko-malinový"
+title:  "Muffiny mandarinkový"
 category: sladké
 ---
 
 <br>
 
-<img src="/img/dort_coko-malinovy.jpg" alt="Dort čoko-malinový" width="200px" style="float: right; margin-right: 80px"/>
-
 <div class="ingredience" markdown="1">
 
-1 bal.
-:  maliny (zmrzlé, aby byly dost kyselé)
+130g
+: hl. mouka
 
-### Korpus
+½ ks
+: PdP
 
-90g
-: cukr
+½ lž.
+: sůl
 
-3 ks
-: vejce
+55g
+: máslo
 
-3 LŽ.
-: horké vody
-
-90g
-: hr. mouka
-
-2 lž.
-: kakao
-
-&nbsp;
-: rum (na pokapání korpusu)
-
-### Náplň
-
-1 ks
-: šlehačka
-
-2 ks
-: zakysaná smetana
-
-2 LŽ.
+100g
 : cukr
 
 1 ks
-: želatina (nebo 1 bal. ztužovač šlehačky)
+: vejce (velké)
+
+80ml
+: mléko
+
+1 ks
+: mandarinka
+
+1 ks
+: pomerančová marmeláda
+
+### POLEVA:
+
+110g
+: cukr moučka
 
 1 LŽ.
-: kakao
+: mandarinkové nebo citrónové šťávy
 
 </div>
 
@@ -56,15 +49,10 @@ category: sladké
 
 <div class="postup" markdown="1">  
 
-- našlehám cukr se žloutky do pěny, přidám horkou vodu a zase našlehám
-- přidáme všechno ostatní, smíchám a naliji do formy
-- peču na 180°, 15 minut
-- smícháme zakysanou smetanu s cukrem, pak přidáme ušlehanou šlehačku a nakonec želatinu nebo ztužovač šlehačky (ten můžeme dát už předem do šlehačky)
-- zcela vychladlý korpus pokapeme rumem
-- šlehačku si rozdělíme na 2 poloviny, do jedné přimícháme kakao a dáme na korpus
-- poklademe malinami
-- zakryjeme 2. polovinou bílé šlehačky
-- navrch můžeme ozdobit nastrouhanou čokoládou 
-- přes noc nechat v lednici
+- smícháme cukr s máslem, pak přidáme vejce, mléko, šťávu a kůru z 1 mandarinky a smícháme
+- pak přidáme mouku s práškem do pečiva a solí
+- na dno každého košíčku dám lžičku těsta, na to 1 lžičku marmelády, a pak zcela zakryji zase těstem
+- peču na 180°, asi 10 min.
+- polevu je třeba dávat na **zcela** zchladlé muffiny
      
 </div>
