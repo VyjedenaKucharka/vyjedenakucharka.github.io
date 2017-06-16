@@ -4,51 +4,35 @@ title:  "DORT čoko-malinový"
 category: sladké
 ---
 
-<br>
+(NA MENŠÍ PLECH)
 
-<img src="/img/dort_coko-malinovy.jpg" alt="Dort čoko-malinový" width="200px" style="float: right; margin-right: 80px"/>
+<br>
 
 <div class="ingredience" markdown="1">
 
-1 bal.
-:  maliny (zmrzlé, aby byly dost kyselé)
+200g
+: máslo (zcela změklé)
 
-### Korpus
-
-90g
-: cukr
-
-3 ks
-: vejce
-
-3 LŽ.
-: horké vody
-
-90g
+300g
 : hr. mouka
 
-2 lž.
-: kakao
-
-&nbsp;
-: rum (na pokapání korpusu)
-
-### Náplň
-
-1 ks
-: šlehačka
-
-2 ks
-: zakysaná smetana
-
-2 LŽ.
+220g
 : cukr
 
-1 ks
-: želatina (nebo 1 bal. ztužovač šlehačky)
+½ ks
+: PdP
 
-1 LŽ.
-: kakao
+1 ks
+: vanilkový cukr
+
+2 ks
+: vejce
+
+1 dl
+: mléko (pokojové teploty)
+
+500g
+: rybíz
 
 </div>
 
@@ -56,15 +40,9 @@ category: sladké
 
 <div class="postup" markdown="1">  
 
-- našlehám cukr se žloutky do pěny, přidám horkou vodu a zase našlehám
-- přidáme všechno ostatní, smíchám a naliji do formy
-- peču na 180°, 15 minut
-- smícháme zakysanou smetanu s cukrem, pak přidáme ušlehanou šlehačku a nakonec želatinu nebo ztužovač šlehačky (ten můžeme dát už předem do šlehačky)
-- zcela vychladlý korpus pokapeme rumem
-- šlehačku si rozdělíme na 2 poloviny, do jedné přimícháme kakao a dáme na korpus
-- poklademe malinami
-- zakryjeme 2. polovinou bílé šlehačky
-- navrch můžeme ozdobit nastrouhanou čokoládou 
-- přes noc nechat v lednici
+- z másla, cukru a mouky vyrobíme drobenku
+- ca. 250g drobenky si dáme stranou
+- ke zbytku přidáme ostatní ingredience a zamícháme
+- pečeme v předehřáté troubě na 170°, 20-30 min.
      
 </div>
