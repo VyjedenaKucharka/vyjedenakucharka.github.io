@@ -1,54 +1,80 @@
 ---
 layout: recept
-title:  "DORT čoko-malinový"
+title:  "Tvarohový serník (z Dresden)"
 category: sladké
 ---
 
 <br>
 
-<img src="/img/dort_coko-malinovy.jpg" alt="Dort čoko-malinový" width="200px" style="float: right; margin-right: 80px"/>
+<img src="/img/tvarohovy_sernik.jpg" alt="Tvarohový serník" width="200px" style="float: right; margin-right: 80px"/>
 
 <div class="ingredience" markdown="1">
 
-1 bal.
-:  maliny (zmrzlé, aby byly dost kyselé)
+### TĚSTO:
 
-### Korpus
-
-90g
-: cukr
-
-3 ks
-: vejce
-
-3 LŽ.
-: horké vody
-
-90g
-: hr. mouka
-
-2 lž.
-: kakao
-
-&nbsp;
-: rum (na pokapání korpusu)
-
-### Náplň
+½ ks
+: PdP
 
 1 ks
-: šlehačka
+: žloutek
 
-2 ks
-: zakysaná smetana
+200g
+: mouka
 
-2 LŽ.
+šp.
+: sůl
+
+100g
+: máslo (studené)
+
+50g
 : cukr
 
-1 ks
-: želatina (nebo 1 bal. ztužovač šlehačky)
+### NÁPLŇ:
+
+100g
+: rozinky (namočené v rumu)
 
 1 LŽ.
-: kakao
+: rum
+
+750g
+: tvaroh (néé víc!)
+
+2 ks
+: žloutek
+
+180g
+: cukr
+
+1 ks
+: vanilkový cukr
+
+3 LŽ.
+: mléko
+
+1 ks
+: vanilkový puding
+
+šp.
+: sůl
+
+3 ks
+: bílky (sníh)
+
+### K TOMU:
+
+2 ks
+: jablek
+
+20g
+: cukr
+
+1 LŽ.
+: šťáva z citrónu
+
+2 LŽ.
+: hoblin z mandlí
 
 </div>
 
@@ -56,15 +82,11 @@ category: sladké
 
 <div class="postup" markdown="1">  
 
-- našlehám cukr se žloutky do pěny, přidám horkou vodu a zase našlehám
-- přidáme všechno ostatní, smíchám a naliji do formy
-- peču na 180°, 15 minut
-- smícháme zakysanou smetanu s cukrem, pak přidáme ušlehanou šlehačku a nakonec želatinu nebo ztužovač šlehačky (ten můžeme dát už předem do šlehačky)
-- zcela vychladlý korpus pokapeme rumem
-- šlehačku si rozdělíme na 2 poloviny, do jedné přimícháme kakao a dáme na korpus
-- poklademe malinami
-- zakryjeme 2. polovinou bílé šlehačky
-- navrch můžeme ozdobit nastrouhanou čokoládou 
-- přes noc nechat v lednici
+- utřeme máslo s cukrem a se solí, pak přidáme mouku s práškem do pečiva a nakonec žloutky
+- náplň vznikne smícháním všech ingrediencí
+- jablka oloupeme a nastrouháme na plátky. Zakápneme citronovou šťávou, aby tolik nehnědly
+- těsto vtlačíme do formy (na dno a boky), vlijeme tvarohový krém, navrch poklademe jablka, která posypeme cukrem
+- pečeme na 180-200°, 60 min. (na posledních 20 min. dáme na serník mandle)
+
      
 </div>
