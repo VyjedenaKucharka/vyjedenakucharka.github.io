@@ -1,6 +1,6 @@
 ---
 layout: recept
-title:  "Koprová omáčka"
+title:  "Pstruh s česnekem a bylinkami"
 category: slané
 ---
 
@@ -8,26 +8,35 @@ category: slané
 
 <div class="ingredience" markdown="1">
 
-500ml
-: hovězí vývar
+1 ks
+: svazek petržele (nať)
 
-5 LŽ.
-: hl. mouka
+1 hrst
+: bazalka
 
-3 LŽ.
-: olej
+4 ks
+: pstruh
 
-3 LŽ.
+2 LŽ.
+: strouhanka
+
+8 ks
+: stroužků česneku
+
+150-200g
 : máslo
 
-500ml
-: pln. mléko (min. pokojové teploty, lépe teplé)
-
-250ml
-: šlehačka (pokojové teploty)
+1 ks
+: citrón
 
 &nbsp;
-: pepř (bílý), sůl, cukr, ocet, kopr
+: hl. mouka
+
+&nbsp;
+: sůl
+
+&nbsp;
+: další bylinky
 
 </div>
 
@@ -35,10 +44,13 @@ category: slané
 
 <div class="postup" markdown="1">  
 
-- jíška: olej, máslo, mouka, až se bude zdát, že je hotová, tak přidat část kopru a ztlumit oheň
-- vlijeme horký vývar, pak zcela stáhneme z ohně a necháme 5 minut odpočívat
-- vlijeme mléko a pak i tu šlehačku (tu vlijeme buď samotnou nebo pokud se nám zdá, že je omáčka moc řídká, tak smíchanou s moukou)
-- nakonec přidáme zbytek kopru a dochutíme **trochou** pepře, solí, cukrem a octem
-- na velice mírném ohni vaříme ještě asi 15-20 minut
+- česnek utřít se solí, pak nasekat bazalku, petržel a další bylinky a vše smíchat. Rozdělit na 2 porce
+- vykuchané ryby důkladně umýt ve studené vodě (hlavu a ploutve nechat)
+- vnitřek pstruha vykapat citrónem a naplnit jednou porcí bylinek
+- pstruha zlehka poprášit hladkou moukou a krátce z obou stran osmahnout na másle
+- do 2. porce bylinek přidáme 80g změklého másla a strouhanku
+- zapékací mísu silně vymažeme máslem, vložíme ryby a navrch dáme směs
+- polijeme zbytkem másla, pokapeme citrónem a dáme péct
+- 180°, 20-30 minut.
 
 </div>
