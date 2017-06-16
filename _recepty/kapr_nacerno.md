@@ -1,54 +1,63 @@
 ---
 layout: recept
-title:  "DORT čoko-malinový"
-category: sladké
+title:  "Kapr načerno"
+category: slané
 ---
 
 <br>
 
-<img src="/img/dort_coko-malinovy.jpg" alt="Dort čoko-malinový" width="200px" style="float: right; margin-right: 80px"/>
-
 <div class="ingredience" markdown="1">
 
-1 bal.
-:  maliny (zmrzlé, aby byly dost kyselé)
+800g
+: kapr (ideálně filety) 
 
-### Korpus:
-
-90g
-: cukr
-
-3 ks
-: vejce
-
-3 LŽ.
-: horké vody
-
-90g
-: hr. mouka
-
-2 lž.
-: kakao
+150g
+: kořenová zelenina (mrkev, celer, petržel)
 
 &nbsp;
-: rum (na pokapání korpusu)
-
-### Náplň:
+: sůl
 
 1 ks
-: šlehačka
+: cibule (menší)
 
-2 ks
-: zakysaná smetana
+½ LŽ.
+: rajčatový protlak
+
+&nbsp;
+: celý pepř a nové koření (stačí několik kuliček)
+
+3 listy
+: bobkový list
+
+šp.
+: tymián
+
+80g
+: olivový olej
 
 2 LŽ.
-: cukr
+: ocet
 
-1 ks
-: želatina (nebo 1 bal. ztužovač šlehačky)
+40g
+: perník na strouhání
 
 1 LŽ.
-: kakao
+: švestková povidla
+
+¼ l
+: červené víno
+
+1 LŽ.
+: cukr
+
+60g
+: mandle
+
+60g
+: rozinky
+
+60g
+: sušené švestky
 
 </div>
 
@@ -56,15 +65,19 @@ category: sladké
 
 <div class="postup" markdown="1">  
 
-- našlehám cukr se žloutky do pěny, přidám horkou vodu a zase našlehám
-- přidáme všechno ostatní, smíchám a naliji do formy
-- peču na 180°, 15 minut
-- smícháme zakysanou smetanu s cukrem, pak přidáme ušlehanou šlehačku a nakonec želatinu nebo ztužovač šlehačky (ten můžeme dát už předem do šlehačky)
-- zcela vychladlý korpus pokapeme rumem
-- šlehačku si rozdělíme na 2 poloviny, do jedné přimícháme kakao a dáme na korpus
-- poklademe malinami
-- zakryjeme 2. polovinou bílé šlehačky
-- navrch můžeme ozdobit nastrouhanou čokoládou 
-- přes noc nechat v lednici
+- kapra dobře očistíme, nakrájíme na porce a omyjeme
+- jednotlivé porce osolíme a necháme chvíli odležet
+- kořenovou zeleninu očistíme, nakrájíme na nudličky, dáme na rozehřátý olej a krátce orestujeme
+- pak přidáme najemno nakrájenou cibuli, následně lžíci protlaku, promícháme a zalijeme vodou
+- do základu přidáme koření, špetku soli a přivedeme k varu
+- do omáčky vložíme kapra a necháme 10-15 minut vařit
+- vařeného kapra vyndáme na talíř a přikryjeme fólií, aby neoschnul a nezčernal
+- do zeleninové směsi přidáme najemno nastrouhaný perník, červené víno a švestková povidla
+- ochutíme solí a cukrem a necháme dobře povařit
+- mezitím krátce povaříme sušené švestky a k nim přidáme rozinky
+- ve vedlejším kastrůlku si spaříme mandle, ty pak vyloupeme a jemně pokrájíme
+- omáčku odstavíme z ohně a propasírujeme skrz jemné plátýnko (nebo jí prostě hodně dobře rozmixujeme)
+- pak do ní přidáme mandle, rozinky a jemně pokrájené švestky a necháme ještě jednou krátce povařit
+- do částečně vychladlé omáčky vložíme porce kapra a necháme do 2. dne odležet (kapr je prý pak chutnější, ale tolik času jsem zatím nikdy neměla)
      
 </div>
