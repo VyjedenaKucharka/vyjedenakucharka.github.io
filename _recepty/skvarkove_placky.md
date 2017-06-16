@@ -1,6 +1,6 @@
 ---
 layout: recept
-title:  "Koprová omáčka"
+title:  "Škvarkové placky"
 category: slané
 ---
 
@@ -8,26 +8,26 @@ category: slané
 
 <div class="ingredience" markdown="1">
 
-500ml
-: hovězí vývar
+500g
+: pol. mouka
 
-5 LŽ.
-: hl. mouka
+1 ks
+: vejce
 
-3 LŽ.
-: olej
+30g
+: droždí
 
-3 LŽ.
-: máslo
+100g
+: tuku (Hera)
 
-500ml
-: pln. mléko (min. pokojové teploty, lépe teplé)
-
-250ml
-: šlehačka (pokojové teploty)
+šp.
+: sůl
 
 &nbsp;
-: pepř (bílý), sůl, cukr, ocet, kopr
+: škvarky
+
+ca.1/8l
+: mléko (vlažné)
 
 </div>
 
@@ -35,10 +35,11 @@ category: slané
 
 <div class="postup" markdown="1">  
 
-- jíška: olej, máslo, mouka, až se bude zdát, že je hotová, tak přidat část kopru a ztlumit oheň
-- vlijeme horký vývar, pak zcela stáhneme z ohně a necháme 5 minut odpočívat
-- vlijeme mléko a pak i tu šlehačku (tu vlijeme buď samotnou nebo pokud se nám zdá, že je omáčka moc řídká, tak smíchanou s moukou)
-- nakonec přidáme zbytek kopru a dochutíme **trochou** pepře, solí, cukrem a octem
-- na velice mírném ohni vaříme ještě asi 15-20 minut
+- ze všeho kromě škvarků vypracovat těsto (nesmí být moc řídké, aby se dalo vyválet) a nechat 1,5 hod. kynou
+- pak vyválet  a potřít mletými škvarky
+- placku složit napůl a ještě jednou napůl (na čtvrtky) a znovu rozválet
+- tento postup 3x zopakovat + po každém vykrajování
+- když je placka připravená, tak z ní vykrajujeme kolečka, která necháme ještě 0,5 hod. kynout
+- péct na 180°
 
 </div>
