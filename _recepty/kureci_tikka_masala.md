@@ -16,7 +16,7 @@ Naložené maso se musí nechat alespoň 24 hod. odležet!
 : kuřecích prsou
 
 1 ks
-: limeta
+: limetka
 
 3–4
 : stroužky česneku (větší)
