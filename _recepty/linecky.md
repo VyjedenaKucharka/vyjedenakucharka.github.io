@@ -1,28 +1,34 @@
 ---
 layout: recept
-title:  "Kávová zrna"
+title:  "Linecké koláčky"
 category: cukroví
 ---
 
-(56 KS)
+(30 KS)
 
 <br>
 
 <div class="ingredience" markdown="1">
 
-230g
-: cukr moučka
+200g
+: hl. mouka
 
-2-3 lž.
-: káva (mletá)
+2 ks
+: žloutek
 
-1 lž.
-: rum (néé víc!)
+1 ks
+: vanilkový cukr
 
-80g
-: máslo
+140g
+: tuk (Hera)
 
-30g
-: kakao
+70g
+: cukr
+
+½ ks
+: kůra z citrónu
+
+1 ks
+: marmeláda (rybízová)
      
 </div>
