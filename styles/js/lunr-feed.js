@@ -36,13 +36,21 @@ $(document).ready(function() {
     // Show results
     resultdiv.empty();
     // Add status
-    resultdiv.prepend('<p class="">Found '+result.length+' result(s)</p>');
+    if (result.length == 0) {
+      resultdiv.prepend('<p class="">Nenalezen žádný recept.');
+    } else if (result.length == 1) {
+      resultdiv.prepend('<p class="">Nalezen právě jeden recept.');
+    } else if (result.length > 1 && result.length < 5) {
+      resultdiv.prepend('<p class="">Nalezeny '+result.length+' recepty.');
+    } else {
+      resultdiv.prepend('<p class="">Nalezeno '+result.length+' receptů.');
+    }
     // Loop through, match, and add results
     for (var item in result) {
 console.log(item);
       var ref = result[item].ref;
 console.log(ref);
-      var searchitem = '<div class="result"><div class="result-body"><a href="'+store[ref].link+'" class="post-title">'+store[ref].title+'</a><div class="post-date small">'+store[ref].category+' </div><p>'+store[ref].excerpt+'</p></div>';
+      var searchitem = '<div class="search-result"><div class="result-body"><a href="'+store[ref].link+'" class="post-title">'+store[ref].title+'</a><div class="post-date small">'+store[ref].category+' </div><p>'+store[ref].excerpt+'</p></div>';
       resultdiv.append(searchitem);
     }
   });
