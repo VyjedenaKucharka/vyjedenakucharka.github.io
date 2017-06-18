@@ -5,8 +5,13 @@
 	</div>
 </footer>
 
-<script src="{{ '/styles/js/jquery.min.js' | prepend: site.baseurl }}"></script>
-<script src="{{ '/styles/js/bootstrap.min.js' | prepend: site.baseurl }}"></script>
-<script src="{{ '/styles/js/holder.min.js' | prepend: site.baseurl }}"></script>
-<script src="{{ '/styles/js/lessismore.js' | prepend: site.baseurl }}"></script>
-<script src="{{ '/styles/js/application.js' | prepend: site.baseurl }}"></script>
+<script src="/styles/js/jquery.min.js"></script>
+<script src="/styles/js/bootstrap.min.js"></script>
+<script src="/styles/js/holder.min.js"></script>
+<script src="/styles/js/lessismore.js"></script>
+<script src="/styles/js/application.js"></script>
+{% if page.title == "Search" %}
+<script src="/styles/js/lunr.min.js"></script>
+<script src="/styles/js/lunr.unicodeNormalizer.js"></script>
+<script src="/styles/js/lunr-feed.js"></script>
+{% endif %}
