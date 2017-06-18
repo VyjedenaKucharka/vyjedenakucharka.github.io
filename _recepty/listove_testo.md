@@ -20,10 +20,11 @@ category: sladké
 1 LŽ.
 : ocet
 
-1/2 lž.
+½ lž.
 : sůl
 
-voda
+&nbsp;
+: voda
 
 </div>
 
@@ -31,6 +32,10 @@ voda
 
 <div class="postup" markdown="1">  
 
-- všechno smíchat a nakonec přidat opatrně sníh
+- do odměrky vyklepneme vejce, rozmícháme vidličkou, přidáme ocet, sůl a dolijeme ledovou vodou DO CELKOVÉHO MNOŽSTVÍ 150ml
+- do mouky nastrouháme na velké slze dobře vychlazený tuk
+- do směsi tuku s moukou postupně na vále zapracujeme (velkým nožem) tekutou složku a rychle rukama, **ne moc důkladně**, vypracujeme těsto
+- těsto necháme odpočinout v chladu a posléze je vyválíme a zpracujeme na stejné produkty, které se dělají z listového těsta
+- pečeme při 190° (horkovzduch)
      
 </div>
