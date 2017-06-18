@@ -89,14 +89,14 @@ Naložené maso se musí nechat alespoň 24 hod. odležet!
 **24 hod. předem:**
 - maso opláchnout, osušit, vydatně zakápnout limetkovou šťávou a nechat odležet
 - lisem na česnek propasírovat do misky česnek a zázvor, přidat k tomu koření a promíchat
-- na závěr do směsy přidat jogurt
+- na závěr do směsi přidat jogurt
 - maso nakrájet na menší kousky a dát do marinády
 - zakrýt fólií a 1 den nechat odležet v lednici
 <br>
-- maso dát do pekáče a péct ve vykřáté troubě na 200°, ca. 20 min.
+- maso dát do pekáče a péct ve vyhřáté troubě na 200°, ca. 20 min.
 - mezitím oloupat a najemno nakrájet cibule a dát smažit na pánev s olivovým olejem a máslem
 - vedle do mističky si připravit veškeré koření a pokrájet rajčata
-- když je cibule hotová, tak přidat korení, pokrájená rajčata, rajčata z plechovky a zázvot s česnekem propasírovaný přes lis na česnek
+- když je cibule hotová, tak přidat koření, pokrájená rajčata, rajčata z plechovky a zázvor s česnekem propasírovaný přes lis na česnek
 - nechat 10 min. povařit, pak přidat smetanu
 - do hotové omáčky vložit upečené maso a dochutit solí, cukrem a limetkovou šťávou
      
