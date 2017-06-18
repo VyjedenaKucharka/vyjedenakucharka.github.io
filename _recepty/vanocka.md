@@ -1,70 +1,57 @@
 ---
 layout: recept
-title:  "Ořechy"
+title:  "Vánočka (od říčanské babičky"
 category: cukroví
 ---
 
-<br>
+(2 KS)
 
-<img src="/img/dort_coko-malinovy.jpg" alt="Dort čoko-malinový" width="200px" style="float: right; margin-right: 80px"/>
+<br>
 
 <div class="ingredience" markdown="1">
 
-1 bal.
-:  maliny (zmrzlé, aby byly dost kyselé)
+1 kg
+: hl. mouka
 
-### Korpus:
+300g
+: máslo (popř. Hera)
 
-90g
+300g
 : cukr
 
-3 ks
+4 ks
+: žloutek
+
+1 ks
 : vejce
 
-3 LŽ.
-: horké vody
+2 ks
+: vanilkový cukr
 
-90g
-: hr. mouka
+100g
+: rozinky
 
-2 lž.
-: kakao
-
-&nbsp;
-: rum (na pokapání korpusu)
-
-### Náplň:
-
-1 ks
-: šlehačka
+200g
+: mandle (vyloupané)
 
 2 ks
-: zakysaná smetana
+: droždí (2x42g)
 
-2 LŽ.
-: cukr
-
-1 ks
-: želatina (nebo 1 bal. ztužovač šlehačky)
-
-1 LŽ.
-: kakao
-
+¼ l
+: mléko (vlažné až teplé)
+ 
 </div>
 
 ## Postup
 
 <div class="postup" markdown="1">  
 
-- našlehám cukr se žloutky do pěny, přidám horkou vodu a zase našlehám
-- přidáme všechno ostatní, smíchám a naliji do formy
-- peču na 180°, 15 minut
-- smícháme zakysanou smetanu s cukrem, pak přidáme ušlehanou šlehačku a nakonec želatinu nebo ztužovač šlehačky (ten můžeme dát už předem do šlehačky)
-- zcela vychladlý korpus pokapeme rumem
-- šlehačku si rozdělíme na 2 poloviny, do jedné přimícháme kakao a dáme na korpus
-- poklademe malinami
-- zakryjeme 2. polovinou bílé šlehačky
-- navrch můžeme ozdobit nastrouhanou čokoládou 
-- přes noc nechat v lednici
+- mouku prosít a uprostřed vytvořit velký důlek
+- pokraji nasypat cukr a vanilkový cukr, trochu i do důlku
+- do ďolíku nalít mléko a rozdrobit droždí
+- po vykynutí do toho dát vajíčko a změklé máslo a vše smíchat
+- nechám 2-3 hod. vykynout, pak znovu prohnětu a nechám znovu 1,5 hod. vykynout
+- pak upletu vánočky a nechám znovu 1 hod. vykynout
+- (pro lepší tvar můžu propíchat špejlemi)
      
 </div>
