@@ -4,4 +4,4 @@ title: Cukroví
 category: cukroví
 ---
 
-![{{ page.title }}](/img/cukrovi.jpg)
+<img src="/img/cukrovi.jpg" alt="{{ page.title }}" width="800px"/>

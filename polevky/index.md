@@ -4,4 +4,4 @@ title: Polévky
 category: polévky
 ---
 
-![Polévky](/img/polevky.jpg)
+<img src="/img/polevky.jpg" alt="{{ page.title }}" width="800px"/>

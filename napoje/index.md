@@ -4,4 +4,4 @@ title: Nápoje
 category: nápoje
 ---
 
-![Nápoje](/img/napoje.jpg)
+<img src="/img/napoje.jpg" alt="{{ page.title }}" width="800px"/>

@@ -4,4 +4,4 @@ title: Slané
 category: slané
 ---
 
-![Slané](/img/slane.jpg)
+<img src="/img/slane.jpg" alt="{{ page.title }}" width="800px"/>

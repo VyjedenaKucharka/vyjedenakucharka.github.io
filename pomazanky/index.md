@@ -4,4 +4,4 @@ title: Pomazánky
 category: pomazánky
 ---
 
-![Pomazánky](/img/pomazanky.jpg)
+<img src="/img/pomazanky.jpg" alt="{{ page.title }}" width="800px"/>

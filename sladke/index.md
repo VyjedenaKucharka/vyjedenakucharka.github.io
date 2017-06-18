@@ -4,4 +4,4 @@ title: Sladké
 category: sladké
 ---
 
-![Sladké](/img/sladke.jpg)
+<img src="/img/sladke.jpg" alt="{{ page.title }}" width="800px"/>

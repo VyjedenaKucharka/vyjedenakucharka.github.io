@@ -4,4 +4,4 @@ title: Saláty
 category: saláty
 ---
 
-![Saláty](/img/salaty.jpg)
+<img src="/img/salaty.jpg" alt="{{ page.title }}" width="800px"/>
