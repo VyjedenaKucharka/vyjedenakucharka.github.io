@@ -1,70 +1,56 @@
 ---
 layout: recept
-title:  "Ořechy"
+title:  "Žloutkové košíčky"
 category: cukroví
 ---
 
-<br>
+(?? KS)
 
-<img src="/img/dort_coko-malinovy.jpg" alt="Dort čoko-malinový" width="200px" style="float: right; margin-right: 80px"/>
+<br>
 
 <div class="ingredience" markdown="1">
 
-1 bal.
-:  maliny (zmrzlé, aby byly dost kyselé)
+250g
+: hl. mouky
 
-### Korpus:
+120g
+: máslo
 
-90g
+100g
 : cukr
 
 3 ks
-: vejce
+: žloutky
 
-3 LŽ.
-: horké vody
+### KRÉM:
 
-90g
-: hr. mouka
+60g
+: cukr moučka
 
-2 lž.
-: kakao
-
-&nbsp;
-: rum (na pokapání korpusu)
-
-### Náplň:
-
-1 ks
-: šlehačka
-
-2 ks
-: zakysaná smetana
-
-2 LŽ.
-: cukr
-
-1 ks
-: želatina (nebo 1 bal. ztužovač šlehačky)
+100g
+: máslo
 
 1 LŽ.
-: kakao
+: salko
 
-</div>
+1 LŽ.
+: rum
 
-## Postup
+&nbsp;
+: vlašské ořechy (mleté) + celé na ozdobu
 
-<div class="postup" markdown="1">  
+&nbsp;
+: nebo    mandle (mleté) + celé na ozdobu
 
-- našlehám cukr se žloutky do pěny, přidám horkou vodu a zase našlehám
-- přidáme všechno ostatní, smíchám a naliji do formy
-- peču na 180°, 15 minut
-- smícháme zakysanou smetanu s cukrem, pak přidáme ušlehanou šlehačku a nakonec želatinu nebo ztužovač šlehačky (ten můžeme dát už předem do šlehačky)
-- zcela vychladlý korpus pokapeme rumem
-- šlehačku si rozdělíme na 2 poloviny, do jedné přimícháme kakao a dáme na korpus
-- poklademe malinami
-- zakryjeme 2. polovinou bílé šlehačky
-- navrch můžeme ozdobit nastrouhanou čokoládou 
-- přes noc nechat v lednici
-     
+### CITRÓNOVÁ GLAZURA:
+
+1 LŽ.
+: citrónová šťáva
+
+1 LŽ.
+: horká voda
+
+100g
+: cukr moučka
+
 </div>
