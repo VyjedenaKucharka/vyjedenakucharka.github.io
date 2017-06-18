@@ -1,28 +1,49 @@
 ---
 layout: recept
-title:  "Kávová zrna"
+title:  "Marokánky"
 category: cukroví
 ---
 
-(56 KS)
+(?? KS)
 
 <br>
 
 <div class="ingredience" markdown="1">
 
-230g
-: cukr moučka
+500ml
+: šlehačka
 
-2-3 lž.
-: káva (mletá)
+100g
+: rozinky
 
-1 lž.
-: rum (néé víc!)
+8 LŽ.
+: hl. mouka
 
-80g
+100g
+: kandované ovoce
+
+10 LŽ.
+: cukr
+
+200g
+: ořechy (mix - nasekat)
+
+100g
 : máslo
 
-30g
-: kakao
-     
+1 ks
+: čokoláda
+ 
+</div>
+
+## Postup
+
+<div class="postup" markdown="1">
+
+- šlehačku s cukrem nad párou
+- postupně! přidávat mouku (je dobré ji tam přesít)
+- nakonec máslo a odstavit
+- přidat rozinky, kandované ovoce a ořechy
+- péct na 150-120°, ca. 30 min.
+
 </div>
