@@ -1,28 +1,42 @@
 ---
 layout: recept
-title:  "Kávová zrna"
+title:  "Medové trubičky"
 category: cukroví
 ---
 
-(56 KS)
+(?? KS)
 
 <br>
 
 <div class="ingredience" markdown="1">
 
-230g
-: cukr moučka
+4 LŽ.
+: mléko
 
-2-3 lž.
-: káva (mletá)
+250g
+: hl. mouka
 
-1 lž.
-: rum (néé víc!)
+1 ks
+: žloutek
 
-80g
+90g
+: cukr
+
+3 LŽ.
+: med (tekutý)
+
+50g
 : máslo
 
-30g
-: kakao
+</div>
+
+## Postup
+
+<div class="postup" markdown="1">
+ 
+- těsto dáme na ca. 2 hod. do mrazáku
+- vyválet na 3 mm (dobře podsypávat!!)
+- vykrajovat kolečka 6-7cm velká
+- 180°, 10-12 min. (až začnou zlátnout konečky)
      
 </div>
