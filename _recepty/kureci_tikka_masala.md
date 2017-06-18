@@ -93,6 +93,7 @@ Naložené maso se musí nechat alespoň 24 hod. odležet!
 - maso nakrájet na menší kousky a dát do marinády
 - zakrýt fólií a 1 den nechat odležet v lednici
 <br>
+<br>
 - maso dát do pekáče a péct ve vyhřáté troubě na 200°, ca. 20 min.
 - mezitím oloupat a najemno nakrájet cibule a dát smažit na pánev s olivovým olejem a máslem
 - vedle do mističky si připravit veškeré koření a pokrájet rajčata
