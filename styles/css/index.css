@@ -6454,7 +6454,7 @@ hr {
 .sidebar .nav > li > a:hover,
 .sidebar .nav > li > a:focus {
   text-decoration: none;
-  background-color: #e8ebee;
+  background-color: #fcc5dd; /* e8ebee; */
   border-right: 1px solid #d8dde2;
 }
 .sidebar .nav > .active > a,
