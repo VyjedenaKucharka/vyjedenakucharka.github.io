@@ -16,12 +16,16 @@ category: cukroví
 
 </div>
 
+<br>
+
 <div class="postup" markdown="1">
  
 - med rozehřeji ve sklenici ve vodní lázni, pak naliji do mouky a dobře smíchám
 - nechám 1 měsíc v mikrotenovým sáčku na tmavém chladném místě, aby se vše spojilo
 
 </div>
+
+<br>
 
 <div class="ingredience" markdown="1">
 
