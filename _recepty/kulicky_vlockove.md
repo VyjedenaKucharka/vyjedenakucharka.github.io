@@ -1,28 +1,37 @@
 ---
 layout: recept
-title:  "Kávová zrna"
+title:  "Kuličky s vločkami (od Marušky)"
 category: cukroví
 ---
 
-(56 KS)
+(?? KS)
 
 <br>
 
 <div class="ingredience" markdown="1">
 
-230g
-: cukr moučka
-
-2-3 lž.
-: káva (mletá)
-
-1 lž.
-: rum (néé víc!)
-
-80g
+100g
 : máslo
 
-30g
+100g
+: ovesné vločky
+
+35g
+: kokos
+
+75g
+: cukr moučka
+
+1 ks
+: vanilkový cukr
+
+2 lž.
 : kakao
+
+1 LŽ.
+: studené vody
+
+50g
+: kokos (na obalení)
      
 </div>
