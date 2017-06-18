@@ -92,7 +92,11 @@ Naložené maso se musí nechat alespoň 24 hod. odležet!
 - na závěr do směsi přidat jogurt
 - maso nakrájet na menší kousky a dát do marinády
 - zakrýt fólií a 1 den nechat odležet v lednici
-<br>
+
+<div class="postup" markdown="1"> 
+
+</div>
+
 **v den D**
 - maso dát do pekáče a péct ve vyhřáté troubě na 200°, ca. 20 min.
 - mezitím oloupat a najemno nakrájet cibule a dát smažit na pánev s olivovým olejem a máslem
