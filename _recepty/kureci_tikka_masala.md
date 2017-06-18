@@ -4,7 +4,7 @@ title:  "Kuřecí tikka masala"
 category: slané
 ---
 
-Naložené maso se musí nechat alespoň 24 hod. odležet!
+**Naložené maso se musí nechat alespoň 24 hod. odležet!**
 
 <br>
 
