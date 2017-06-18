@@ -13,7 +13,7 @@ layout: default
           <div class="panel docs-content">
             <div class="wrapper">
               <div class="home">
-...asi taky nejaky obrazek?
+<img src="/img/selka_uvodni.jpg" alt="{{ Má úvodní selka }}" width="800px"/>
               </div>
             </div>
           </div>
