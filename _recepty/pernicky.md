@@ -1,70 +1,51 @@
 ---
 layout: recept
-title:  "Ořechy"
+title:  "Perníčky (od Kazmarů)"
 category: cukroví
 ---
 
 <br>
 
-<img src="/img/dort_coko-malinovy.jpg" alt="Dort čoko-malinový" width="200px" style="float: right; margin-right: 80px"/>
+<div class="ingredience" markdown="1">
+
+500g
+: hl. mouka
+
+500g
+: med (tekutý)
+
+</div>
+
+<div class="postup" markdown="1">
+ 
+- med rozehřeji ve sklenici ve vodní lázni, pak naliji do mouky a dobře smíchám
+- nechám 1 měsíc v mikrotenovým sáčku na tmavém chladném místě, aby se vše spojilo
+
+</div>
 
 <div class="ingredience" markdown="1">
 
-1 bal.
-:  maliny (zmrzlé, aby byly dost kyselé)
-
-### Korpus:
-
-90g
-: cukr
-
-3 ks
-: vejce
-
-3 LŽ.
-: horké vody
-
-90g
-: hr. mouka
-
-2 lž.
-: kakao
-
-&nbsp;
-: rum (na pokapání korpusu)
-
-### Náplň:
+4-5 ks
+: žloutky
 
 1 ks
-: šlehačka
+: PdP do perníku nebo PdP a koření do perníku
 
-2 ks
-: zakysaná smetana
+250g
+: cukr moučka
 
-2 LŽ.
-: cukr
-
-1 ks
-: želatina (nebo 1 bal. ztužovač šlehačky)
-
-1 LŽ.
-: kakao
+200g
+: hl. mouka (dává se podle potřeby)
 
 </div>
 
 ## Postup
 
-<div class="postup" markdown="1">  
-
-- našlehám cukr se žloutky do pěny, přidám horkou vodu a zase našlehám
-- přidáme všechno ostatní, smíchám a naliji do formy
-- peču na 180°, 15 minut
-- smícháme zakysanou smetanu s cukrem, pak přidáme ušlehanou šlehačku a nakonec želatinu nebo ztužovač šlehačky (ten můžeme dát už předem do šlehačky)
-- zcela vychladlý korpus pokapeme rumem
-- šlehačku si rozdělíme na 2 poloviny, do jedné přimícháme kakao a dáme na korpus
-- poklademe malinami
-- zakryjeme 2. polovinou bílé šlehačky
-- navrch můžeme ozdobit nastrouhanou čokoládou 
-- přes noc nechat v lednici
+<div class="postup" markdown="1">
+ 
+- hmotu nakrájím na proužky a přidám cukr moučka, PdP, koření, 4 žloutky (když jsou hodně malý tak 5) a mouku podle hustoty těsta 
+- množství mouky není uvedeno přesně, ale když se dá málo, tak perníčky při pečení ztrácí tvar, když se dá hodně, tak nejsou tak dobré
+- postupně zapracovávám nožem pak rukama, až vznikne tužší hladké těsto
+- vyválím a na 1. plechu vyzkouším, zda je mouky akorát
      
 </div>
