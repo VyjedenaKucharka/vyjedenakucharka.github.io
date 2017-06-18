@@ -1,28 +1,34 @@
 ---
 layout: recept
-title:  "Kávová zrna"
+title:  "Kokosové kuličky (tmavé)"
 category: cukroví
 ---
 
-(56 KS)
+(73 KS)
 
 <br>
 
 <div class="ingredience" markdown="1">
 
-230g
-: cukr moučka
-
-2-3 lž.
-: káva (mletá)
-
-1 lž.
-: rum (néé víc!)
-
-80g
+150g
 : máslo
 
-30g
+200g
+: cukr moučka
+
+200g
+: kokos
+
+1 lž.
+: salko (nebo 1 žloutek)
+
+3 lž.
 : kakao
-     
+
+2-3 lž.
+: rum
+
+50g
+: kokos (na obalení)
+    
 </div>
