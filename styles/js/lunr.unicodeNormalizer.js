@@ -115,30 +115,42 @@ lunr.unicodeNormalizer = function(str) {
  * @param {String} obj The string to convert into tokens
  * @returns {Array}
  */
- var tokenizer = function(obj) {
-  if (!arguments.length || obj === null || obj === undefined) return [];
+var tokenizer = function (obj) {
+  if (obj == null || obj == undefined) {
+    return []
+  }
+
   if (Array.isArray(obj)) {
-    return obj.map(function(t) {
-      return lunr.unicodeNormalizer(t).toLowerCase();
-    });
+    return obj.map(function (t) {
+      return new lunr.Token(lunr.unicodeNormalizer(lunr.utils.asString(t)).toLowerCase())
+    })
   }
 
-  var str = obj.toString().replace(/^\s+/, '');
+  var str = obj.toString().trim().toLowerCase(),
+      len = str.length,
+      tokens = []
 
-  for (var i = str.length - 1; i >= 0; i--) {
-    if (/\S/.test(str.charAt(i))) {
-      str = str.substring(0, i + 1);
-      break;
+  for (var sliceEnd = 0, sliceStart = 0; sliceEnd <= len; sliceEnd++) {
+    var char = str.charAt(sliceEnd),
+        sliceLength = sliceEnd - sliceStart
+
+    if ((char.match(lunr.tokenizer.separator) || sliceEnd == len)) {
+
+      if (sliceLength > 0) {
+        tokens.push(
+          new lunr.Token(lunr.unicodeNormalizer(str.slice(sliceStart, sliceEnd)), {
+            position: [sliceStart, sliceLength],
+            index: tokens.length
+          })
+        )
+      }
+
+      sliceStart = sliceEnd + 1
     }
+
   }
 
-  str = lunr.unicodeNormalizer(str);
-
-  return str
-    .split(/\s+/)
-    .map(function(token) {
-      return token.toLowerCase();
-    });
+  return tokens
 };
 
 for(var attr in lunr.tokenizer){
