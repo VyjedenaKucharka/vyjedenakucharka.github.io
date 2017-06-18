@@ -1270,7 +1270,7 @@ th {
   border-top: 2px solid #dddddd;
 }
 .table .table {
-  background-color: #fff6f2;
+  background-color: #fff9f7;
 }
 .table-condensed > thead > tr > th,
 .table-condensed > tbody > tr > th,
@@ -3321,7 +3321,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .nav-tabs > li.active > a:hover,
 .nav-tabs > li.active > a:focus {
   color: #555555;
-  background-color: #fff6f2;
+  background-color: #fff9f7;
   border: 1px solid #dddddd;
   border-bottom-color: transparent;
   cursor: default;
@@ -3363,7 +3363,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   .nav-tabs.nav-justified > .active > a,
   .nav-tabs.nav-justified > .active > a:hover,
   .nav-tabs.nav-justified > .active > a:focus {
-    border-bottom-color: #fff6f2;
+    border-bottom-color: #fff9f7;
   }
 }
 .nav-pills > li {
@@ -3433,7 +3433,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   .nav-tabs-justified > .active > a,
   .nav-tabs-justified > .active > a:hover,
   .nav-tabs-justified > .active > a:focus {
-    border-bottom-color: #fff6f2;
+    border-bottom-color: #fff9f7;
   }
 }
 .tab-content > .tab-pane {
@@ -4279,7 +4279,7 @@ a.list-group-item.active > .badge,
 .thumbnail {
   padding: 4px;
   line-height: 1.42857143;
-  background-color: #fff6f2;
+  background-color: #fff9f7;
   border: 1px solid #dddddd;
   border-radius: 4px;
   -webkit-transition: all 0.2s ease-in-out;
@@ -5110,7 +5110,7 @@ button.close {
   font-size: 14px;
   font-weight: normal;
   line-height: 18px;
-  background-color: #fff6f2;
+  background-color: #fff9f7;
   border-bottom: 1px solid #ebebeb;
   border-radius: 5px 5px 0 0;
 }
@@ -6104,7 +6104,7 @@ body {
   font-size: 14px;
   line-height: 1.42857143;
   color: #333333;
-  background-color: #fff6f2;
+  background-color: #fff9f7;
 }
 input,
 button,
@@ -6142,7 +6142,7 @@ img {
 .img-thumbnail {
   padding: 4px;
   line-height: 1.42857143;
-  background-color: #fff6f2;
+  background-color: #fff9f7;
   border: 1px solid #dddddd;
   border-radius: 4px;
   -webkit-transition: all 0.2s ease-in-out;
@@ -6443,7 +6443,7 @@ hr {
   padding-top: 10px;
   padding-bottom: 10px;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
-  background-color: #fff6f2;
+  background-color: #fff9f7;
   border-radius: 5px;
 }
 /* All levels of nav */
