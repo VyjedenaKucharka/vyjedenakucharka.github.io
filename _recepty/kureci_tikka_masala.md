@@ -25,7 +25,7 @@ Naložené maso se musí nechat alespoň 24 hod. odležet!
 : zázvor (rozdrcený čerstvý)
 
 1 LŽ.
-koření masala
+: koření masala
 
 ½ lž.
 : mletý římský kmín
@@ -92,10 +92,12 @@ koření masala
 - na závěr do směsy přidat jogurt
 - maso nakrájet na menší kousky a dát do marinády
 - zakrýt fólií a 1 den nechat odležet v lednici
-
-- nastrouhanou cuketu vysušit a smíchat s jogurtem
-- v mléce rozšlehat žloutky a přidat k cuketám
-- nakonec přidat mouku smíchanou s práškem do pečiva, sodou, solí a pepřem
-- v případě, že je těsto moc řídké a lívance se při smažení trhají → **PŘIDAT MOUKU!!**
+<br>
+- maso dát do pekáče a péct ve vykřáté troubě na 200°, ca. 20 min.
+- mezitím oloupat a najemno nakrájet cibule a dát smažit na pánev s olivovým olejem a máslem
+- vedle do mističky si připravit veškeré koření a pokrájet rajčata
+- když je cibule hotová, tak přidat korení, pokrájená rajčata, rajčata z plechovky a zázvot s česnekem propasírovaný přes lis na česnek
+- nechat 10 min. povařit, pak přidat smetanu
+- do hotové omáčky vložit upečené maso a dochutit solí, cukrem a limetkovou šťávou
      
 </div>
