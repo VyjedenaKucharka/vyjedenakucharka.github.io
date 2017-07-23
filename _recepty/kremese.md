@@ -53,7 +53,7 @@ category: sladké
 - plech vyložím alobalem 
 - na to položím první plát těsta
 - pak naneseme veškerý krém, který překryjeme ušlehnou šlehačkou
-- 2. plát těsta nejprv rozkrájíme na požadované výsledné velikosti zákusků (např. 4x6cm), a pak jako puzzle vyskládáme na šlehačku
+- druhý plát těsta nejprv rozkrájíme na požadované výsledné velikosti zákusků (např. 4x6cm), a pak jako puzzle vyskládáme na šlehačku
 - dáme alespoň na 3 hodiny chladit do lednice
 - před podáváním ozdobíme moučkovým cukrem
      
