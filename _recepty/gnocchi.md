@@ -8,29 +8,48 @@ category: slané
 
 <div class="ingredience" markdown="1">
 
-2
-: pláty listového těsta
+### Gocchi:
 
-1 l
-: mléko
+300g
+: brambory (staré/moučné)
 
-3ks
-: vanilkový puding
+40g
+: hrubá mouka
 
-250g
-: cukr krupice
+50g
+: krupice
 
-3ks
-: vejce
+20g
+: mandle mleté (není nutné)
 
-250g
-: máslo (pokojové teploty)
-
-500 ml
-: šlehačka
+2ks
+: žloutky
 
 &nbsp;
-: cukr moučka (na posypání)
+: sůl, pepř, muškátový oříšek
+
+### Ostatní:
+
+20g
+: máslo
+
+100g
+: Salsiccia (a nebo taky ne)
+
+10ks
+: cherry rajčata
+
+50g
+: Pecorino
+
+20g
+: pistácie
+
+100g
+: rukola
+
+50ml
+: šlehačka
 
 </div>
 
@@ -39,18 +58,16 @@ category: slané
 
 <div class="postup" markdown="1">  
 
-- pláty listového těsta vyválíme, propícháme vidličkou a dáme péct do předem vyhřáté trouby na 180°, 10-15 minut (dozlatova)
-**Pudinková náplň:**
-- v malém množstí mléka rozmícháme puding, cukr a vejce
-- zbytek mléka přivedu k varu, pak do něj vliju pudinkovou směs
-- krém nechám bychladnout při pokojové tplotě
-- když je krém vychladlý, odstraním z povrchu škraloup a vmíchám zcela změklé máslo
-**kompletace:**
-- plech vyložím alobalem 
-- na to položím první plát těsta
-- pak naneseme veškerý krém, který překrjeme ušlehnou šlehačkou
-- 2. plát těsta nejprv rozkrájíe na výsledné požadované velikosti zákusků (např. 4x6cm), a pak jako puzzle vyskládáme na šlehačku
-- dáme alespoň na 3 hodiny chladit do lednice
-- před podáváním ozdobíme moučkovým cukrem
+- brambory uvařit, nechat vychladnout a nastrouhat na jemném struhadle
+- smíchat s moukou, krupicí, mandlemi, žloutky, solí a pepřem
+- z těta vyválet asi 1cm válečky a z těch pak nakrájet asi 1cm dlouhé gnocchi
+- z každého dílku vypracovad vejcoid
+- gnocchi se vhodí do vroucí osolené vody, když vyplavou na povrch, tak ca. 3 minuty povařit
+
+- v hlobčí pánvy (ideálně wok) rozlustit máslo, přidat na kolečka nakrájené Salcciao a chvíli smažit
+- rajčata nakrájet na půlky a přidat do pánve
+- mezitím Pecorino nastrounat na hobliny, propláchnout rukolu a nahrubou nakráje, pistácie nasekat na menší kousky
+- gnocchi okapat a dát přímo do pánve
+- nakonec přidat ještě šlehačku, rukolu, Pecorino s pistácie a vše nechat 3 minuty prohřát
      
 </div>
