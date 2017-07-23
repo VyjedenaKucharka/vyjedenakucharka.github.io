@@ -63,7 +63,9 @@ category: slané
 - z těta vyválet asi 1cm válečky a z těch pak nakrájet asi 1cm dlouhé gnocchi
 - z každého dílku vypracovad vejcoid
 - gnocchi se vhodí do vroucí osolené vody, když vyplavou na povrch, tak ca. 3 minuty povařit
+
 <br>
+
 - v hlobčí pánvy (ideálně wok) rozlustit máslo, přidat na kolečka nakrájené Salcciao a chvíli smažit
 - rajčata nakrájet na půlky a přidat do pánve
 - mezitím Pecorino nastrounat na hobliny, propláchnout rukolu a nahrubou nakráje, pistácie nasekat na menší kousky
