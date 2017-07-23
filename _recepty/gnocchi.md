@@ -66,7 +66,7 @@ category: slané
 
 <br>
 
-- v hlobčí pánvy (ideálně wok) rozlustit máslo, přidat na kolečka nakrájené Salcciao a chvíli smažit
+- v hlubší pánvy (ideálně wok) rozlustit máslo, přidat na kolečka nakrájené Salcciao a chvíli smažit
 - rajčata nakrájet na půlky a přidat do pánve
 - mezitím Pecorino nastrounat na hobliny, propláchnout rukolu a nahrubou nakráje, pistácie nasekat na menší kousky
 - gnocchi okapat a dát přímo do pánve
