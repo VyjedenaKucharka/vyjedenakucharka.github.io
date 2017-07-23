@@ -41,15 +41,15 @@ category: sladké
 
 - pláty listového těsta vyválíme, propícháme vidličkou a dáme péct do předem vyhřáté trouby na 180°, 10-15 minut (dozlatova)
 **Pudinková náplň:**
-- v malém množstí mléka rozmícháme puding, cukr a vejce
+- v malém množství mléka rozmícháme puding, cukr a vejce
 - zbytek mléka přivedu k varu, pak do něj vliju pudinkovou směs
-- krém nechám bychladnout při pokojové tplotě
-- když je krém vychladlý, odstraním z povrchu škraloup a vmíchám zcela změklé máslo
+- krém nechám vychladnout při pokojové teplotě
+- když je krém studený, odstraním z povrchu škraloup a vmíchám zcela změklé máslo
 **kompletace:**
 - plech vyložím alobalem 
 - na to položím první plát těsta
-- pak naneseme veškerý krém, který překrjeme ušlehnou šlehačkou
-- 2. plát těsta nejprv rozkrájíe na výsledné požadované velikosti zákusků (např. 4x6cm), a pak jako puzzle vyskládáme na šlehačku
+- pak naneseme veškerý krém, který překryjeme ušlehnou šlehačkou
+- 2. plát těsta nejprv rozkrájíe na požadované výsledné velikosti zákusků (např. 4x6cm), a pak jako puzzle vyskládáme na šlehačku
 - dáme alespoň na 3 hodiny chladit do lednice
 - před podáváním ozdobíme moučkovým cukrem
      
