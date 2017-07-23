@@ -40,11 +40,13 @@ category: sladké
 <div class="postup" markdown="1">  
 
 - pláty listového těsta vyválíme, propícháme vidličkou a dáme péct do předem vyhřáté trouby na 180°, 10-15 minut (dozlatova)
+
 **Pudinková náplň:**
 - v malém množství mléka rozmícháme puding, cukr a vejce
 - zbytek mléka přivedu k varu, pak do něj vliju pudinkovou směs
 - krém nechám vychladnout při pokojové teplotě
 - když je krém studený, odstraním z povrchu škraloup a vmíchám zcela změklé máslo
+
 **kompletace:**
 - plech vyložím alobalem 
 - na to položím první plát těsta
