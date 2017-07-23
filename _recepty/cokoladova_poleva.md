@@ -15,3 +15,9 @@ category: sladké
 : čokoláda hořká
 
 </div>
+
+<div class="postup" markdown="1">  
+
+- tato poleva **není** po zaschnutí tvrdá jako kámen
+     
+</div>
