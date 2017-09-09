@@ -1,4 +1,4 @@
-<div id="navigation">
+<div class="seznamreceptu">
 {% if page.category %}
   <h1>{{ page.category | capitalize }}</h1>
     <ul class="nav sidenav">
