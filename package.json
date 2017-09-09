@@ -1,8 +1,8 @@
 {
-  "name": "paulilab.org",
+  "name": "VyjedenaKucharka",
   "version": "0.0.1",
-  "description": "Pauli Lab Webpage",
-  "author": "Tomas Kazmar",
+  "description": "VyjedenaKucharka web",
+  "author": "Tomas & Jana Kazmar",
   "license": "MIT",
   "devDependencies": {
     "bootstrap": "^3.3.7",

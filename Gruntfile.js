@@ -31,7 +31,7 @@ module.exports = function(grunt) {
     },
     concat: {
       options: {
-        banner: '<%= banner %>',
+        banner: '',
         stripBanners: false
       },
       js: {
@@ -49,9 +49,18 @@ module.exports = function(grunt) {
           //'<%=bootstrapdir%>/js/popover.js',
           //'<%=bootstrapdir%>/js/scrollspy.js',
           //'<%=bootstrapdir%>/js/tab.js',
-          //'<%=bootstrapdir%>/js/affix.js'
+          //'<%=bootstrapdir%>/js/affix.js',
+          'js/lunr.min.js'
         ],
         dest: '<%=builddir%>/js/main.js'
+      },
+      jsfm: {
+        src: [
+          'js/frontmatter.js',
+          '<%=uglify.js.dest%>',
+          'js/lunr-feed.js'
+        ],
+        dest: '<%=uglify.js.dest%>'
       }
     },
     uglify: {
@@ -232,6 +241,7 @@ module.exports = function(grunt) {
   grunt.registerTask('build', [
     'concat:js',
     'uglify:js',
+    'concat:jsfm',
     'build-css',
     'shell:jekyll',
     //'uncss:dist',
