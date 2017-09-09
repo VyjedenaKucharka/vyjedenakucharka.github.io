@@ -234,7 +234,7 @@ module.exports = function(grunt) {
     'uglify:js',
     'build-css',
     'shell:jekyll',
-    'uncss:dist',
+    //'uncss:dist',
     'compress-css:<%=builddir%>/css/main.css:<%=builddir%>/css/main.min.css',
     'clean:assets'
   ]);
