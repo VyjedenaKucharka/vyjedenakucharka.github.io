@@ -1,0 +1,26 @@
+<nav class="navbar navbar-default navbar-fixed-top">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+    <div class="navbar-collapse collapse">
+      <ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="nav navbar-nav">
+        <li itemprop="name"><a itemprop="url" href="{{ site.baseurl }}/sladke/">Sladké</a></li>
+        <li itemprop="name"><a itemprop="url" href="{{ site.baseurl }}/slane/">Slané</a></li>
+        <li itemprop="name"><a itemprop="url" href="{{ site.baseurl }}/salaty/">Saláty</a></li>
+        <li itemprop="name"><a itemprop="url" href="{{ site.baseurl }}/pomazanky/">Pomazánky</a></li>
+        <li itemprop="name"><a itemprop="url" href="{{ site.baseurl }}/polevky/">Polévky</a></li>
+        <li itemprop="name"><a itemprop="url" href="{{ site.baseurl }}/napoje/">Nápoje</a></li>
+        <li itemprop="name"><a itemprop="url" href="{{ site.baseurl }}/cukrovi/">Cukroví</a></li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li itemprop="name"><a itemprop="url" href="{{ site.baseurl }}/search/">Hledat</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>

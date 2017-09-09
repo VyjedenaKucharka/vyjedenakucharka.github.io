@@ -1,0 +1,14 @@
+<head prefix="og: http://ogp.me/ns#">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  {% if page.url == '/' %}
+  <title>{{ site.name }} | {{ site.motto }}</title>
+  {% else %}
+  <title>{{ page.title }} | {{ site.name }}</title>
+  {% endif %}
+  {% capture description %}{% if page.description %}{{ page.description }}{% else %}{{ page.excerpt | strip_html }}{% endif %}{% endcapture %}
+  {% if description != '' %}<meta name="description" content="{{ description }}" />{% endif %}
+  <link rel="canonical" href="{{ page.url | absolute_url }}" />
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.min.css" media="screen">
+</head>

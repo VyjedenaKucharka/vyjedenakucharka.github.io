@@ -6,7 +6,7 @@ category: sladké
 
 <br>
 
-<img src="/img/dort_vlasske_orechy.jpg" alt="Dort s vlašskými ořechy" width="200px" style="float: right; margin-right: 80px"/>
+<img src="/assets/img/dort_vlasske_orechy.jpg" alt="Dort s vlašskými ořechy" width="200px" style="float: right; margin-right: 80px"/>
 
 <div class="ingredience" markdown="1">
 

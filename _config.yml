@@ -5,9 +5,24 @@ description: Vaření, vaření, konec tomu není ...
 meta_description: Vaření, kuchařka, recepty.
 motto: Vyjedená kuchařka
 
-permalink: /:year/:month/:day/:title/
+permalink: /:year-:month-:day-:title/
+include: ['_pages']
 
-exclude: ['README.md']
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Gruntfile.js
+  - README.md
+  - TODO.md
+  - _config.yml
+  - assets/img/README.md
+  - js
+  - less
+  - node_modules
+  - package.json
+  - tools
+  - resources
+  - vendor
 
 markdown: kramdown
 
@@ -15,13 +30,8 @@ collections:
   recepty:
     output: true
     permalink: /recepty/:path/
-
-FB:
-  comments :
-    disqus :
-        short_name : gatagat
-    # facebook :
-    #   appid : 123
-    #   num_posts: 5
-    #   width: 580
-    #   colorscheme: light
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  profile: false

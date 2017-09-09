@@ -1,0 +1,32 @@
+{
+  "name": "paulilab.org",
+  "version": "0.0.1",
+  "description": "Pauli Lab Webpage",
+  "author": "Tomas Kazmar",
+  "license": "MIT",
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "grunt": "^1.0.1",
+    "grunt-autoprefixer": "^3.0.4",
+    "grunt-cli": "^1.2.0",
+    "grunt-concurrent": "^2.3.1",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-less": "^1.4.1",
+    "grunt-contrib-uglify": "^3.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-shell": "^2.1.0",
+    "grunt-uncss": "^0.6.2",
+    "instafeed.js": "^1.4.1",
+    "jit-grunt": "^0.10.0",
+    "jquery": "^3.2.1",
+    "less-plugin-clean-css": "^1.5.1",
+    "load-grunt-tasks": "^3.5.2"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 version"
+  ]
+}
