@@ -20,8 +20,8 @@ body {
         a {
           color: #111;
         }
-	a:hover {
-	  color: #5e5e5e;
+        a:hover {
+          color: #5e5e5e;
         }
       }
     }
@@ -105,54 +105,62 @@ img.takhletomavypadat {
     margin-top: 0.4em;
     text-transform: uppercase;
   }
-	dl {
-		padding: 0 0.5em 0 1.5em;
-		margin-top: 0.1em;
-		margin-bottom: 0.1em;
-	}
-	dt {
-		float: left;
-		clear: left;
-		width: 5em;
-		font-weight: normal;
-	}
-	dt:before {
-		content: '\25cf';
-		margin-right: 0.5em;
-	}
-	dd {
-		margin: 0;
-		padding: 0;
-	}
+  dl {
+    padding: 0 0.5em 0 1.5em;
+    margin-top: 0.1em;
+    margin-bottom: 0.1em;
+  }
+  dt {
+    float: left;
+    clear: left;
+    width: 5em;
+    font-weight: normal;
+  }
+  dt:before {
+    content: '\25cf';
+    margin-right: 0.5em;
+  }
+  dd {
+    margin: 0;
+    padding: 0;
+  }
 }
 
 .postup {
-	ul {
-		list-style-type: none;
-		padding-left: 1.5em;
-	}
-	li:before {
-		content: "- ";
-	}
+  ul {
+    list-style-type: none;
+    padding-left: 1.5em;
+  }
+  li:before {
+    content: "- ";
+  }
 }
 
-.search-input {
-	border: 0;
-	border-radius: .25em;
-	font-family: inherit;
-	font-size: 1.25em;
-	margin: 2em auto 1em;
-	padding: .5em;
-	width: 100%;
-}
-.search-result {
-	margin-bottom: 2em;
-	@media (min-width: 50em) {
-		align-items: center;
-		display:flex;
-		justify-content:left;
-	}
-	p {
-	margin-bottom: 0;
-	}
+.search {
+  h1 {
+    margin-top: 0;
+  }
+  .search-input {
+    border: 0;
+    border-radius: .25em;
+    font-family: inherit;
+    font-size: 1.25em;
+    padding: .5em;
+    width: 100%;
+  }
+  .search-result {
+    margin-bottom: 2em;
+    @media (min-width: 50em) {
+      align-items: center;
+      display:flex;
+      justify-content:left;
+    }
+    p {
+      margin-bottom: 0;
+    }
+    a {
+      color: #8a442b;
+      font-size: 18px;
+    }
+  }
 }
