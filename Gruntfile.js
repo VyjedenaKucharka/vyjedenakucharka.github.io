@@ -9,6 +9,7 @@ module.exports = function(grunt) {
     builddir: 'assets',
     bootstrapdir: 'node_modules/bootstrap/',
     jquerydir: 'node_modules/jquery/dist',
+    convert_resize_opts: '-strip -interlace JPEG -sampling-factor 4:2:0 -quality 70% -colorspace RGB ',
     banner: '/*!\n' +
     ' * <%= pkg.name %> v<%= pkg.version %>\n' +
     ' * Homepage: <%= pkg.homepage %>\n' +
@@ -145,6 +146,42 @@ module.exports = function(grunt) {
       },
       jekyll_incremental: {
         command: 'bundle exec jekyll build --incremental',
+        options: {
+          callback: log
+        }
+      },
+      prepare_recipe_images: {
+        command: [
+          'dort_coko-malinovy.png',
+          'dort_hruskovy.png',
+          'dort_vlasske_orechy.png',
+          'tvarohovy_sernik.png'].map(function(filename) {
+            return 'convert -resize "300>" <%=convert_resize_opts%>'.concat(
+              'resources/img/',
+              filename,
+              ' assets/img/',
+              filename.substr(0, filename.lastIndexOf('.')), '.jpg');
+          }).join(' && '),
+        options: {
+          callback: log
+        }
+      },
+      prepare_category_images: {
+        command: [
+          'cukrovi.png',
+          'napoje.png',
+          'polevky.png',
+          'pomazanky.png',
+          'salaty.png',
+          'selka_uvodni.png',
+          'sladke.png',
+          'slane.png'].map(function(filename) {
+            return 'convert -resize "1000>" <%=convert_resize_opts%>'.concat(
+              'resources/img/',
+              filename,
+              ' assets/img/',
+              filename.substr(0, filename.lastIndexOf('.')), '.jpg');
+          }).join(' && '),
         options: {
           callback: log
         }
