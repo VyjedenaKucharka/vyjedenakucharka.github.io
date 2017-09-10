@@ -1,6 +1,7 @@
 <nav class="navbar navbar-default navbar-fixed-top">
   <div class="container">
     <div class="navbar-header">
+      <a class="navbar-brand" href="{{ site.baseurl }}/"><img alt="brand" src="{{ site.baseurl }}/favicon-32x32.png">Vyjedená Kuchařka</a>
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false">
         <span class="sr-only">Toggle navigation</span>
         <span class="icon-bar"></span>

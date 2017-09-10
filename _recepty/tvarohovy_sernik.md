@@ -1,12 +1,10 @@
 ---
 layout: recept
-title:  "Tvarohový serník (z Dresden)"
+title:  "Tvarohový serník (z&nbsp;Dresden)"
 category: sladké
 ---
 
-<br>
-
-<img src="/assets/img/tvarohovy_sernik.jpg" alt="Tvarohový serník" width="200px" style="float: right; margin-right: 80px"/>
+<img src="/assets/img/tvarohovy_sernik.jpg" alt="Tvarohový serník" width="200px" class="takhletomavypadat"/>
 
 <div class="ingredience" markdown="1">
 

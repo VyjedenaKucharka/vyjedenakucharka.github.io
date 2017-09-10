@@ -22,21 +22,43 @@ body {
       }
     }
   }
+  .main {
+    padding-top: 1.5em;
+    @media (min-width: 576px) {
+      padding-top: 2em;
+    }
+    @media (min-width: 768px) {
+      padding-top: 5em;
+    }
+    @media (min-width: 992px) {
+      padding-top: 2em;
+    }
+  }
+  h1 {
+    @media (max-width: 575px) {
+      font-size: 30px;
+    }
+  }
+  .post-title {
+    margin-top: 0;
+  }
+  h2 {
+    @media (max-width: 575px) {
+      font-size: 26px;
+    }
+  }
+  h3 {
+    @media (max-width: 575px) {
+      font-size: 26px;
+    }
+  }
   .seznamreceptu {
-    margin-top: 2em;
-
     h1 {
       display: none;
     }
     li>a {
       padding: 0;
     }
-  }
-  h3 {
-    font-size: 12pt;
-    margin-bottom: 0.2em;
-    margin-top: 0.1em;
-    text-transform: uppercase;
   }
 }
 
@@ -57,7 +79,27 @@ body {
   clear: both;
 }
 
+img.takhletomavypadat {
+  @media (max-width: 575px) {
+    display: block;
+  }
+  @media (min-width: 576px) {
+    float: right;
+    margin-right: 5px;
+  }
+  @media (min-width: 992px) {
+    margin-right: 70px;
+    margin-top: 10px;
+  }
+}
+
 .ingredience {
+  h3 {
+    font-size: 12pt;
+    margin-bottom: 0.3em;
+    margin-top: 0.4em;
+    text-transform: uppercase;
+  }
 	dl {
 		padding: 0 0.5em 0 1.5em;
 		margin-top: 0.1em;
@@ -70,7 +112,7 @@ body {
 		font-weight: normal;
 	}
 	dt:before {
-		content: '\26ab';
+		content: '\25cf';
 		margin-right: 0.5em;
 	}
 	dd {

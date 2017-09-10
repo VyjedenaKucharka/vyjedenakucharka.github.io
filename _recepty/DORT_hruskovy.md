@@ -4,9 +4,7 @@ title:  "DORT hruškový"
 category: sladké
 ---
 
-<br>
-
-<img src="/assets/img/dort_hruskovy.jpg" alt="Dort hruškový" width="200px" style="float: right; margin-right: 80px"/>
+<img src="/assets/img/dort_hruskovy.jpg" alt="Dort hruškový" width="200px" class="takhletomavypadat"/>
 
 <div class="ingredience" markdown="1">
 

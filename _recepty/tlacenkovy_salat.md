@@ -1,6 +1,6 @@
 ---
 layout: recept
-title:  "Tlačenkový salát s rajčaty"
+title:  "Tlačenkový salát s&nbsp;rajčaty"
 category: saláty
 ---
 
