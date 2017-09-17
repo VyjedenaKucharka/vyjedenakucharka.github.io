@@ -24,7 +24,7 @@ category: sladké
 : šťáva z citrónu
 
 6 ks
-: vejce
+: vejce (bílky + žloutky)
 
 200 g
 : mák mletý
@@ -64,7 +64,7 @@ category: sladké
 ### Krém
 
 360 g
-: termizovaný sýr
+: termizovaný sýr nebo maskarpone
 
 150 g
 : máslo
@@ -81,17 +81,36 @@ category: sladké
 
 <div class="postup" markdown="1">
 
-- žloutky utřít s cukrem a 4 lžícemi vody do pěny, pak přidat další 3 lžíce vody a zašlehat
-- přidat 3 lžíce vody, ořechy a mouku s práškem do pečiva
-- nakonec vyšlehat sníh se solí a opatrně vmíchat
-- pečeme na 160°, 45 min. 
-- Krém: skládá se ze 3 částí, které se nakonec spojí
-  * A. ve vodní lázni rozpustit čokoládu, za stálého míchání přidat 6 lžic cukru a 2 žloutky. Takto míchat ca. 2 minuty, pak odstavit
-  * B. smíchat mouku s trochou mléka a vytvořit hustou kašičku bez hrudek. Zbytek mléka dát do kastrolu, začít zahřívat a postupně vmíchat tu kašičku (postup jako u pudingu). “Puding” chvíli povaříme, pak odstavíme a postupně po lžičkách! do něj vmícháme čokoládovou část A. Vše necháme zcela vychladnout
-  * C. máslo utřeme s vanilkovým cukrem. Nakonec vše smícháme (A+B+C)
-- krém vystačí na 1 vrstvu + natření dortu z vrchu i ze stran
-- jednotlivé vrstvy korpusu můžeme potřít směsí kávy s rumem
-- složení dortu: korpus, krém, korpus, marmeláda, korpus. Celé to potřít krémem
-- můžeme ozdobit koupenými čokoládovými kuličkami (průměr ideálně 1,5cm)
+**Korpus**
+- mletý mák smícháme s ořechy a jemně nastrouhanou čokoládou
+- máslo utřeme s citronovou kůrou, šťávou, vanilkovým a třtinivým cukrem do pěny
+- do pěny postupně přidáváme žloutek po žloutku
+- z bílků a soli ušleháme sníh
+- do máslové pěny vmícháme nejprv suchou směs, a pak opatrně přidáme i sníh
+- pečeme ve formě o průměru 20cm, 170°, 50 min.
+- s korpusem se lépe pracuje, když je den odležený. Lze tedy upéct den předem a po vychladnutí i s formou zabalit do potravinářské fólie a nechat na chladném místě
+
+**Pečené švestky**
+- švestky omyjeme, rozpůlíme, vypeckujeme a naskládáme je do pečící mísy šlopkou dolů
+- badyám utřeme v hmoždíři na prášek
+- švestky posypeme cukrem a badyánem a na každou položíme kousek másla
+- pečeme 20 min., ve vyhřáté troubě s ventilátorem na 170°
+
+**Karamelizované vlašské ořechy**
+- vlašské ořechy opražíme na sucho na panvičce
+- pánev sundáme z hořáku a rychle na ni přidáme lžíci medu a promícháme, aby se ořechy v medu obalily
+- ořechy ihned sundáme z pánve, položíme na kousek pečícího papíru a nacháme vychladnout
+
+**Krém**
+- máslo spolu s cukrema medem utřeme do pěny, pak přidáme termizovaný sýr nebo maskarpone a mícháme tak dlouho, dokud se všechny suroviny zcela nespojí
+
+**Skládání dortu**
+- korpus opatrně vyndáme z formy a vodorovně rozkrojíme na 3 stejně vysoké pláty
+- první plát potřeme třetinou krému
+- z upečených švestek si ca. 6 nejhezčích půlech schováme na ozdobu
+- polovinu ze zbylých švestek dáme na krém, ty překryjeme 2. plátem a postup s krémem a švestkami opakujeme
+- nakonec přiklopíme 3. plátem, potřeme poslední třetinou krému a lžící uděláme na povrchu vlnky jako na rybníce
+- nerovnoměrně ozdobíme šveskami a ořechy a celé dílo sem-tam pokapeme štávou za švestek a medem z ořechů
+- před podáváním necháme alespoň hodinu odležet v lednici
 
 </div>
