@@ -20,13 +20,13 @@ category: nápoje
 100ml
 : jablečný džus (s dužinou)
 
-1zkumavka
+1zkum
 : punč
 
-1zkumavka
+1zkum
 : cukr
 
-0,5zkumavka
+&frac12;zkum
 : ovocná pálenka
 
 2ks
@@ -48,4 +48,4 @@ category: nápoje
      
 </div>
 
-**Poznámka: 1 zkumavka je ca. 33ml**
+**Poznámka: 1zkum (= 1 zkumavka) je ca. 33ml**
