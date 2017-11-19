@@ -109,15 +109,17 @@ category: sladké
 - !POZOR! po vychladnutí je to tvrdé jak kámen, je lepší to rozprostřít do plochy
 
 **Karamel tekutý**
-- máslo spolu s cukrema medem utřeme do pěny, pak přidáme termizovaný sýr nebo maskarpone a mícháme tak dlouho, dokud se všechny suroviny zcela nespojí
+- nejprv necháme zase rozpustit cukr
+- pak do nej opatrně vmícháme máslo
+- nakoc vlijeme horkou smetanu
+- pokud se obě části nespojí, tak to necháme na mírnén ohní znovu vskypět a průběžne mícháme
 
 **Skládání dortu**
-- korpus opatrně vyndáme z formy a vodorovně rozkrojíme na 3 stejně vysoké pláty
-- první plát potřeme třetinou krému
-- z upečených švestek si ca. 6 nejhezčích půlech schováme na ozdobu
-- polovinu ze zbylých švestek dáme na krém, ty překryjeme 2. plátem a postup s krémem a švestkami opakujeme
-- nakonec přiklopíme 3. plátem, potřeme poslední třetinou krému a lžící uděláme na povrchu vlnky jako na rybníce
-- nerovnoměrně ozdobíme šveskami a ořechy a celé dílo sem-tam pokapeme štávou za švestek a medem z ořechů
-- před podáváním necháme alespoň hodinu odležet v lednici
+- korpus vodorovně rozkrojíme na 2 stejně vysoké pláty
+- první plát potřeme polovinou vychladlého tekutého karamelu, na to dáme menší polovinu krému
+- horní polovinu korpusu můžeme pokapat několika žičkama kávy (na chuti to není tolik poznat, ale dort bude vláčnější)
+- přiklopíme horní půkou korpusu
+- horní stranu dort potřeme zbytkem krému, boky necháme volné
+- na krém nalámeme ořechy v karamelu a vše zakončíme tekutým karamelem (pokud už je moc ztuhlý, tak ho můžeme **trochu** rozehřát)
 
 </div>
