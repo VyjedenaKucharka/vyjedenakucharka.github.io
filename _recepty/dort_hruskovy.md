@@ -25,7 +25,7 @@ category: sladké
 15g
 : kakao
 
-½ lž.
+½ lž
 : PdP
 
 1 ks
