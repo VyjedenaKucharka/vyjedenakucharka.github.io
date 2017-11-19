@@ -14,7 +14,7 @@ category: sladké
 50 g
 : ořechy (lískové a vlašské)
 
-150 g
+100 g
 : cukr (třtinový)
 
 3 LŽ
@@ -32,10 +32,10 @@ category: sladké
 100 g
 : hořká čokoláda
 
-1/2
+½
 : PdP
 
-1/2 lž
+½ lž
 : kardamom
 
 1 lž
@@ -52,13 +52,13 @@ category: sladké
 30 g
 : bílá čokoláda
 
-1/2 lž
+½ lž
 : kardamom
 
-1/2 lž
+½ lž
 : koření masala
 
-1/2 lž
+½ lž
 : skořice (mletá)
 
 2 ks
@@ -90,26 +90,25 @@ category: sladké
 <div class="postup" markdown="1">
 
 **Korpus**
-- mletý mák smícháme s ořechy a jemně nastrouhanou čokoládou
-- máslo utřeme s citronovou kůrou, šťávou, vanilkovým a třtinivým cukrem do pěny
-- do pěny postupně přidáváme žloutek po žloutku
-- z bílků a soli ušleháme sníh
-- do máslové pěny vmícháme nejprv suchou směs, a pak opatrně přidáme i sníh
-- pečeme ve formě o průměru 20cm, 170°, 50 min.
-- s korpusem se lépe pracuje, když je den odležený. Lze tedy upéct den předem a po vychladnutí i s formou zabalit do potravinářské fólie a nechat na chladném místě
-
-**Pečené švestky**
-- švestky omyjeme, rozpůlíme, vypeckujeme a naskládáme je do pečící mísy šlopkou dolů
-- badyám utřeme v hmoždíři na prášek
-- švestky posypeme cukrem a badyánem a na každou položíme kousek másla
-- pečeme 20 min., ve vyhřáté troubě s ventilátorem na 170°
-
-**Karamelizované vlašské ořechy**
-- vlašské ořechy opražíme na sucho na panvičce
-- pánev sundáme z hořáku a rychle na ni přidáme lžíci medu a promícháme, aby se ořechy v medu obalily
-- ořechy ihned sundáme z pánve, položíme na kousek pečícího papíru a nacháme vychladnout
+- změklé máslo utřeme s cukrem a kávou, pak zašleháme vejce
+- přidáme kardamom, koření masala, mandle, mouku a PdP
+- pečeme na 180°, ca. 50 min.
 
 **Krém**
+- ušelat šlehačku a smíchat jí s mascarpone
+- vmíchat kardamom, koření masala a skořici
+- ve vodní lázni rozpustit čokoládu, pak vlít do krému a rychle zamíchat
+- nakonec se dle chuti přidají vanilkové cukry
+- krém dáme chladit do lednice
+
+**Ořechy v karamelu**
+- do pávne s nepřilnavým povrchem (musí to být opravdu dobrá pánev) vsypeme cukr a necháme ho zahřívat
+- když by moc hnědnul, tak na chvíli sundyt s plamene a míchat
+- když je veškerý cukr zcela rozpuštěný, tak do pánve hvodíme ořechy a obalíme je v karamelu
+- vše přelijeme na pečící papír a necháme zcela vychladnout
+- !POZOR! po vychladnutí je to tvrdé jak kámen, je lepší to rozprostřít do plochy
+
+**Karamel tekutý**
 - máslo spolu s cukrema medem utřeme do pěny, pak přidáme termizovaný sýr nebo maskarpone a mícháme tak dlouho, dokud se všechny suroviny zcela nespojí
 
 **Skládání dortu**
