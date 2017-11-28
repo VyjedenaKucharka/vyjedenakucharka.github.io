@@ -1,6 +1,6 @@
 ---
 layout: recept
-title:  "Vánočka (od říčanské babičky"
+title:  "Vánočka (od říčanské babičky)"
 category: cukroví
 ---
 
