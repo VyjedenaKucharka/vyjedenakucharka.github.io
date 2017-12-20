@@ -4,7 +4,7 @@ title:  "Čokoládové lanýže se skořicí"
 category: cukroví
 ---
 
-(50 KS)
+(50 ks)
 
 <br>
 
