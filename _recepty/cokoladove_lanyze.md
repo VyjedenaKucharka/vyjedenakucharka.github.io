@@ -1,6 +1,6 @@
 ---
 layout: recept
-title:  "Čokoládové lanýžš se skořicí"
+title:  "Čokoládové lanýže se skořicí"
 category: cukroví
 ---
 
