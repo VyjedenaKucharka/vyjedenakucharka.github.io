@@ -25,21 +25,27 @@ category: cukroví
 200 g
 : čokoláda (60%)
 
-3 LŽ
-: kakao
-
+&nbsp;
 : rum
 
+&nbsp;
 : cherry / portské víno
 
+&nbsp;
 : kakao+skořice na obalení
 
 </div>
 
 ## Postup
 
-<div class="postup" markdown="1">
+<div class="postup" markdown="1">  
 
-- sušit několik hodin na 50-70°
+- do hrnce (ca. 1-1,5 l) nalijeme smetanu, přidáme máslo, curk a skořici. Za stálého míchání zahříváme než se rozpustí máslo a cukr
+- poté odstavíme z plotny , přidáme nalámanou čokoládu a necháme zcela rozpustit
+- nakonec přidáme 2 lžíce cherry a rum
+- necháme do 2. dne vychladnout a ztuhnout
+- do misky si připravíme kakao se skořicí
+- z vychladlé hmoty vykrajujeme malou lžičkou "kuličky" a rychle tvarujme na výsledný požadovaný tvar, který pak obalujeme ve skořicovém kakau
+- hotové lanýže je dobré vkládat do papírových košíčků (kakao zůstáva nepříjemně na prstech)
      
 </div>
