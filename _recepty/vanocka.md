@@ -53,5 +53,6 @@ category: cukroví
 - nechám 2-3 hod. vykynout, pak znovu prohnětu a nechám znovu 1,5 hod. vykynout
 - pak upletu vánočky a nechám znovu 1 hod. vykynout
 - (pro lepší tvar můžu propíchat špejlemi)
+- 180°, ca. 40-45 min.
      
 </div>
