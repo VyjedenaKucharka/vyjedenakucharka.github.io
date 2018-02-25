@@ -44,7 +44,7 @@ category: sladké
 3 ks
 : vejce
 
-1/2
+½
 : semínka z vanilkového lusku
 
 100 g
