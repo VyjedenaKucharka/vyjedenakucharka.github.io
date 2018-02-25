@@ -63,7 +63,7 @@ category: sladké
 
 ### Čokoládový krém
 
-viz "Čokoládový krém"
+viz "Čokoládová poleva"
 
 ### Kandovaná kůra
 
@@ -89,17 +89,17 @@ viz "Čokoládový krém"
 - nakonec přidat sníh
 - pečeme 45 - 60 min.
 - poté nechat zcela zchladnout
-- __pomerančový krém__ se připraví smícháním všech ingrediencí kromě másla v hrnci, kde se směs přivede k varu
+- **pomerančový krém** se připraví smícháním všech ingrediencí kromě másla v hrnci, kde se směs přivede k varu
 - pak odstavíme z plamene a přidáme máslo nakrájené na kostičky (mícháváme tak dlouho, dokud se nerozpustí)
 - vrátíme zpět na oheň a za stálého míchání vaříme dokud vše nezhouste na konzistenci pudingu (ca. 3 min.)
 - opět necháme zcela vychladnout
 - na **máslový krém** vyšlehejte máslo s cukrem do nadýchané pěna
 - pak přidat danou část pomerančového krému (obě části musí mít stejnou teplotu!!)
-- **čokoládový krém** si připravíme dle postupu na čokoládový krém a to z xxx g čokolády
+- **čokoládový krém** si připravíme dle postupu na čokoládovou polevu a to z 50 g čokolády
 - na **kandovanou pomerančovou kůru** si oškrábeme kůru z pomeranče a nakrájíme jí na ca. 2mm slabé proužky
 - v kastrůlku si připravíme nasycený cukerný roztok, do kterého ponoříme proužky kůry
 - vaříme tak dlouho, dokud se téměř veškerá vody nevyvaří, poté kůru obalíme v jemném cukr krystalu
-- no a teď už jenom **seskládat** to stavebnici dohromady
+- no a teď už jenom **seskládat** tu stavebnici dohromady
 - dort 2x prokrojíme
 - na spodní plát namažeme čokoládový krém, na který vyskládáme asi 0,5 cm vysoká kolečka pomeranče
 - přiklopíme 2. plátem, který potřeme pomerančovým krémem
