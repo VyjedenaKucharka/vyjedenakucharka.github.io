@@ -63,7 +63,8 @@ category: sladké
 
 ### Čokoládový krém
 
-viz "Čokoládová poleva"
+viz
+: "Čokoládová poleva"
 
 ### Kandovaná kůra
 
