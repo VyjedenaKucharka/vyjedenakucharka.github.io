@@ -25,7 +25,7 @@ category: sladké
 ### Pařížský krém
 
 125ml
-: šlehčka
+: šlehačka
 
 175g
 : cukr
