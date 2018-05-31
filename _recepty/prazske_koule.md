@@ -8,6 +8,8 @@ category: sladké
 
 <div class="ingredience" markdown="1">
 
+### Piškoty
+
 6 ks
 : vejce
 
@@ -19,6 +21,20 @@ category: sladké
 
 70g
 : skrobové moučky (gustin)
+
+### Pařížský krém
+
+125ml
+: šlehčka
+
+175g
+: cukr
+
+50g
+: kakao
+
+250g
+: máslo
 
 </div>
 
