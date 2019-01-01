@@ -12,16 +12,16 @@ category: saláty
 : avokádo (rozmačkat vidličkou)
 
 2 ks
-: rajcčata (nakrájet na kostičky)
+: rajčata (nakrájet na kostičky)
 
 1 ks
-: ciule červená (najemno nakrájet)
+: cibule červená (najemno nakrájet)
 
 1/2 ks
 : limetka (šťáva)
 
 1-2
-: strožky česneku
+: stroužky česneku
 
 &nbsp;
 : sůl, pepř
