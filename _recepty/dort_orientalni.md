@@ -103,23 +103,23 @@ category: sladké
 
 **Ořechy v karamelu**
 - do pávne s nepřilnavým povrchem (musí to být opravdu dobrá pánev) vsypeme cukr a necháme ho zahřívat
-- když by moc hnědnul, tak na chvíli sundyt s plamene a míchat
-- když je veškerý cukr zcela rozpuštěný, tak do pánve hvodíme ořechy a obalíme je v karamelu
+- když by moc hnědnul, tak na chvíli sundat s plamene a míchat
+- když je veškerý cukr zcela rozpuštěný, tak do pánve vhodíme ořechy a obalíme je v karamelu
 - vše přelijeme na pečící papír a necháme zcela vychladnout
 - !POZOR! po vychladnutí je to tvrdé jak kámen, je lepší to rozprostřít do plochy
 
 **Karamel tekutý**
 - nejprv necháme zase rozpustit cukr
-- pak do nej opatrně vmícháme máslo
-- nakoc vlijeme horkou smetanu
+- pak do něj opatrně vmícháme máslo
+- nakonec vlijeme horkou smetanu
 - pokud se obě části nespojí, tak to necháme na mírnén ohní znovu vskypět a průběžne mícháme
 
 **Skládání dortu**
 - korpus vodorovně rozkrojíme na 2 stejně vysoké pláty
 - první plát potřeme polovinou vychladlého tekutého karamelu, na to dáme menší polovinu krému
-- horní polovinu korpusu můžeme pokapat několika žičkama kávy (na chuti to není tolik poznat, ale dort bude vláčnější)
+- horní polovinu korpusu můžeme pokapat několika lžičkami kávy (na chuti to není tolik poznat, ale dort bude vláčnější)
 - přiklopíme horní půkou korpusu
-- horní stranu dort potřeme zbytkem krému, boky necháme volné
+- horní stranu dortu potřeme zbytkem krému, boky necháme volné
 - na krém nalámeme ořechy v karamelu a vše zakončíme tekutým karamelem (pokud už je moc ztuhlý, tak ho můžeme **trochu** rozehřát)
 
 </div>
