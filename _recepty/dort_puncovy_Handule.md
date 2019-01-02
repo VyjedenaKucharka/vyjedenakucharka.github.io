@@ -68,7 +68,10 @@ category: sladké
 **korpus**
 - žloutky vyšleháme s cukrem, pak přidáme mouku, citronovou kůru a nakonec sníh
 - těsto rozdělíme na 2 poloviny, jednu dáme do formy a upečeme
-- 2. polovinu rozdělíme na 3 díly: 1. díl dáme do ⅓ formy, do 2. dílu přidáme 2 kapky bretonu a dáme vedle 1. dílu, do 3. dílu přidáme kakao a dáme do formy vedle 2.dílu, a pak také dáme upéct
+- 2. polovinu rozdělíme na 3 díly: 
+ * 1. díl dáme do ⅓ formy
+ * do 2. dílu přidáme 2 kapky bretonu a dáme vedle 1. dílu
+ * do 3. dílu přidáme kakao a dáme do formy vedle 2.dílu, a pak také dáme upéct
 - když vše zchladne, tak světlou polovinu rozřízneme na 2 pláty a oba potřeme rybízovou marmeládou
 
 **skládání dortu**
