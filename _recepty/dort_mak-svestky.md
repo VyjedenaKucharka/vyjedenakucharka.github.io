@@ -73,7 +73,7 @@ category: sladké
 : med tekutý
 
 10 g
-: cukr vanikla
+: cukr vanilka
 
 </div>
 
@@ -91,10 +91,10 @@ category: sladké
 - s korpusem se lépe pracuje, když je den odležený. Lze tedy upéct den předem a po vychladnutí i s formou zabalit do potravinářské fólie a nechat na chladném místě
 
 **Pečené švestky**
-- švestky omyjeme, rozpůlíme, vypeckujeme a naskládáme je do pečící mísy šlopkou dolů
+- švestky omyjeme, rozpůlíme, vypeckujeme a naskládáme je do pečící mísy šlupkou dolů
 - badyám utřeme v hmoždíři na prášek
 - švestky posypeme cukrem a badyánem a na každou položíme kousek másla
-- pečeme 20 min., ve vyhřáté troubě s ventilátorem na 170°
+- pečeme 20 min. ve vyhřáté troubě s ventilátorem na 170°
 
 **Karamelizované vlašské ořechy**
 - vlašské ořechy opražíme na sucho na panvičce
@@ -102,12 +102,12 @@ category: sladké
 - ořechy ihned sundáme z pánve, položíme na kousek pečícího papíru a nacháme vychladnout
 
 **Krém**
-- máslo spolu s cukrema medem utřeme do pěny, pak přidáme termizovaný sýr nebo maskarpone a mícháme tak dlouho, dokud se všechny suroviny zcela nespojí
+- máslo spolu s cukrem a medem utřeme do pěny, pak přidáme termizovaný sýr nebo maskarpone a mícháme tak dlouho, dokud se všechny suroviny zcela nespojí
 
 **Skládání dortu**
 - korpus opatrně vyndáme z formy a vodorovně rozkrojíme na 3 stejně vysoké pláty
 - první plát potřeme třetinou krému
-- z upečených švestek si ca. 6 nejhezčích půlech schováme na ozdobu
+- z upečených švestek si ca. 6 nejhezčích půlek schováme na ozdobu
 - polovinu ze zbylých švestek dáme na krém, ty překryjeme 2. plátem a postup s krémem a švestkami opakujeme
 - nakonec přiklopíme 3. plátem, potřeme poslední třetinou krému a lžící uděláme na povrchu vlnky jako na rybníce
 - nerovnoměrně ozdobíme šveskami a ořechy a celé dílo sem-tam pokapeme štávou za švestek a medem z ořechů
