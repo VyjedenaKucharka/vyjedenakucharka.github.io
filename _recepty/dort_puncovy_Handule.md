@@ -62,12 +62,17 @@ category: sladké
 
 <div class="postup" markdown="1">  
 
-- punčovina: cukr svaříme s vodou na hustý roztok, sundáme z ohně a vmícháme zavařeninu, šťávu z citrónu a punč
+**punčovina**
+- cukr svaříme s vodou na hustý roztok, sundáme z ohně a vmícháme zavařeninu, šťávu z citrónu a punč
+
+**korpus**
 - žloutky vyšleháme s cukrem, pak přidáme mouku, citronovou kůru a nakonec sníh
 - těsto rozdělíme na 2 poloviny, jednu dáme do formy a upečeme
 - 2. polovinu rozdělíme na 3 díly: 1. díl dáme do ⅓ formy, do 2. dílu přidáme 2 kapky bretonu a dáme vedle 1. dílu, do 3. dílu přidáme kakao a dáme do formy vedle 2.dílu, a pak také dáme upéct
 - když vše zchladne, tak světlou polovinu rozřízneme na 2 pláty a oba potřeme rybízovou marmeládou
-- jeden plát vrátíme do formy a na něj klademe proužky nařezané z barevných těst, které namáčíme do punčoviny
+
+**skládání dortu**
+- jeden světlý plát vrátíme do formy a na něj klademe proužky nařezané z barevných těst, které namáčíme do punčoviny
 - nakonec barevné patro zalijeme zbytkem punčoviny a přiklopíme 2. plátem (marmeládou dospod)
 - dort položíme obráceně a necháme odležet do 2. dne
 - 2. den sundáme formu a potřeme polevou
