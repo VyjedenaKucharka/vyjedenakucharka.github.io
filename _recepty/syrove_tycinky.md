@@ -29,7 +29,10 @@ category: slané
 1 ks
 : žloutek na potření
 
+100g
+: sýr na posypání
+
 &nbsp;
-: sýr, kmín, sezamové semínko na posypání
+: kmín, sezamové semínko na posypání
 
 </div>
