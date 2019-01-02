@@ -30,7 +30,7 @@ category: sladké
 : cukr vanilka
 
 1 ks
-: švestkový kompot
+: švestkový kompot (k servírování)
 
 </div>
 
