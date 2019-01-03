@@ -43,7 +43,7 @@ category: slané
 - zprudka zapečeme ca. 10 minut
 - poté odklopíme, do trouby přidáme rendlík s vodou a smížíme teplotu
 - pečeme dokud kůrka nezezlátne (chleba by měl skočit a popraskat), 45 - 60 minut
-- po dopečení necháe pomalu chladnout (až několik hodin)
+- po dopečení necháme pomalu chladnout (až několik hodin)
 - dobře upečený chleba zní dutě
      
 </div>
