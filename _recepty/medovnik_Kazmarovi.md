@@ -58,6 +58,6 @@ hrst
 
 - těsto se smíchá, krémy také
 - na pečící papír předkreslit požadovaný tvar, pak natřít těstem (vrstva vysoká ca. 0,5 - 1cm) u upéct → **NUTNÉ HODNĚ HLÍDAT**
-- peče se každá placka samostatně
+- každá placka se peče samostatně
      
 </div>
