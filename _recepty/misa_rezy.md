@@ -31,7 +31,7 @@ category: sladké
 ### KRÉM:
 
 250g
-: máslo (změklé)
+: máslo (změklé!!)
 
 500g
 : tvaroh
