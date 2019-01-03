@@ -43,6 +43,7 @@ category: sladké
 - z másla, cukru a mouky vyrobíme drobenku
 - ca. 250g drobenky si dáme stranou
 - ke zbytku přidáme ostatní ingredience a zamícháme
+- těsto vylejeme na plech s pečícím papírem, na to dáme rybíz a posypeme drobenkou
 - pečeme v předehřáté troubě na 170°, 20-30 min.
      
 </div>
