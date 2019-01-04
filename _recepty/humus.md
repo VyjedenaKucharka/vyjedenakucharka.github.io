@@ -33,7 +33,7 @@ category: slané
 <div class="postup" markdown="1">  
 
 - scedit cizrnu a lák uschováme *(příprava ze suché cizrny: nejprv jí na 12 hodin namočit, pak hodinu vařit)*
-- cizrju rozmixujeme společně s tahini, česnekem a solí
+- cizrnu rozmixujeme společně s tahini, česnekem a solí
 - podle hustoty přidáme trochu láku z cizrny nebo vody a mixujeme dokud nevznikne hladká pasta
 - dochutíme citrónovou šťávou
      
