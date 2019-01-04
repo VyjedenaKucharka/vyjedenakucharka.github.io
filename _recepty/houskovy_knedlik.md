@@ -35,7 +35,7 @@ category: slané
 - vše kromě housek smícháme
 - nakonec přidáme nakrájené housky a chvíli (než se začne vařit voda) necháme odpočinout
 - knedlíky vytvarujeme do šišek, když to lepí, tak si lehce namáčíme ruce
-- knedlíky dáme do vroucí vody, až vyplavou, tak je vaříme 10+10cm z každé strany
+- knedlíky dáme do vroucí vody, až vyplavou, tak je vaříme 10+10 minut z každé strany
 
 <br>
 **POZOR! Knedlíky se až 2x zvětší**
