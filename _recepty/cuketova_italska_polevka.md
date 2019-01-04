@@ -18,10 +18,10 @@ category: polévky
 : česnek (nadrobno nasekaný)
 
 hrst
-: bazalkové listy (nadrobno nasekaný)
+: bazalkové listy (nadrobno nasekané)
 
 hrst
-: petrželka (nadrobno nasekaný)
+: petrželka (nadrobno nasekaná)
 
 50g
 : parmazán
@@ -41,7 +41,7 @@ hrst
 
 <div class="postup" markdown="1">  
 
-- cukety rozkrojíme podélně na ¼, a pak asi na 1cm široká kolečka
+- cukety rozkrojíme podélně na ¼, a pak asi na 1cm široká (půl)kolečka
 - na středním plameni rozehřejeme olej a opékáme na něm osolenou cuketu, bazalku a česnek (než cuketa zezlátne), ca. 10 min.
 - opepřit zalít vývarem a vařit dalších 10 min.
 - sundat z ohně, ¾ polévky rozmixovat
