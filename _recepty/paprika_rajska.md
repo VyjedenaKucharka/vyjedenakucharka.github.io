@@ -49,7 +49,7 @@ l LŽ.
 : hl. mouka
 
 3 ks
-: rajčatový protlak (velké)
+: rajčatový protlak (velký)
 
 &nbsp;
 : badyán (mletý)
@@ -72,9 +72,9 @@ l LŽ.
 
 <div class="postup" markdown="1">  
 
-- uvařenou a vychladlou rýži smícháme s mletým masem, moukou, sůlí, pepřem a kari kořením
+- uvařenou a vychladlou rýži smícháme s mletým masem, moukou, solí, pepřem a kari kořením
 - papriky očistíme, zbavíme semínek a blanek a řádně vycpeme masovou směsí
-- ze zbylé masové smesi uděláme menší kuličky
+- ze zbylé masové směsi uděláme menší kuličky
 - na pánvy osmahneme na oleji cibuli, to pak zaprášíme moukou a uděláme jíšku
 - když je hotová, odstavíme z plamene a přidáme protlaky a všechno koření podle chuti
 - pak do všeho za důkladného míchání vlijeme vývar a vodu
