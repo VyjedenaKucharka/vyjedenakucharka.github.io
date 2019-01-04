@@ -27,6 +27,6 @@ category: saláty
 : sůl, pepř
 
 &nbsp;
-: (koriander, chilli papričky)
+: (koriandr, chilli papričky)
 
 </div>
