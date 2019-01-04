@@ -57,7 +57,7 @@ category: slané
 
 - troubu předehřejeme na 160°
 - nejprv si připravíme náplň: najemno nasekáme bylinky, utřeme česnek a smícháme se změklým máslem, olejem a solí
-- náplní poltřeme vnitřní stranu vykostěné kýty, je-li třeba, tak kýtu svážeme provázkem do úhledného válečku
+- náplní potřeme vnitřní stranu vykoštěné kýty, je-li třeba, tak kýtu svážeme provázkem do úhledného válečku
 - naplněnou kýtu zvenku osolíme a opepříme
 - do rozehřáté trouby vložíme zapékací mísu s nepřilnavým dnem (ke které vlastníme i víko) a necháme pořádně rozpálit
 - pak ji vyndáme, nalijeme do ní 3 lžíce olivového oleje, a pak tu kýtu v ní ze všech stran opečeme, aby se maso zatáhlo
