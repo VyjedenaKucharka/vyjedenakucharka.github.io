@@ -80,6 +80,6 @@ l LŽ.
 - pak do všeho za důkladného míchání vlijeme vývar a vodu
 - do zapékací mísy s nepřilnavým dnem vložíme papriky a masové kuličky, zalijeme rajskou omáčkou, zakryjeme a necháme péct
 - pečeme v horkovzdušné troubě na 150°
-- podáváme s rýří
+- podáváme s rýží
 
 </div>
