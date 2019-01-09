@@ -45,14 +45,15 @@ category: sladké
 
 ### Na ozdobu
 
+&nbsp;
 : skořice
 
-
+&nbsp;
 : sladké e hořké kakao
 
 nebo
 
-
+&nbsp;
 : sladké a hořké okoládové špony
 
 </div>
