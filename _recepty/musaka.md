@@ -71,7 +71,7 @@ category: slané
 <div class="postup" markdown="1">  
 
 - v nepřilnavé pánvi přivedeme k varu 0,5l vody, vložíme cukety, zakryjeme a 10 minut dusíme. Pak slijeme a osušíme papírovou utěrkou
-- pánev osušit, nalít olej a opékat dozlatova maso s cibulí (rozbíjet při tom hruhky)
+- pánev osušit, nalít olej a opékat dozlatova maso s cibulí (rozbíjet při tom hrudky)
 - pak se přidá česnek a ještě 1 minutu se to míchá
 - přidat koření, sůl, vývar, rýži a špenát, přiklopit a 10 minut dusit, aby špenát rozmrznul/ zavadnul
 - nakonec vmíchat protlak a stáhnout z ohně
