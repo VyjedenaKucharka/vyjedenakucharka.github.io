@@ -36,7 +36,6 @@ category: cukroví
 
 - ideálně den předem uvařit salko asi 1,5 - 2 hodiny, a pak nechat zcela vychladnout (trvá několik dalších hodin)
 - nakonec smíchat se změklým máslem
-
 - bílky ušleháme se 160g cukru ve vodní lázni na __velimi tuhý sníh__
 - nechat zcela zchladnout, a pak přidat ořechy a cukr moučka (už nešlehat, jinak to začne téct)
 - požadovaného tvaru lze dosáhnout několika způsoby: já hmotou "plnila" vykrajovátko na linecké cukroví přímo na pečící papír na plech. To jsem pak jenom vysunula nahoru. !POZOR! laskonky skočí a nabydou objem
