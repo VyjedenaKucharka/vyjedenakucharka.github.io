@@ -39,7 +39,7 @@ category: cukroví
 
 - bílky ušleháme se 160g cukru ve vodní lázni na __velimi tuhý sníh__
 - nechat zcela zchladnout, a pak přidat ořechy a cukr moučka (už nešlehat, jinak to začne téct)
-- požadovaného tvaru lze dosáhnout několika způsoby: já hmotou "plnila" vykrajovátko na linecké cukroví přímo na pčící papír na plech. To jsem pak jenom vysunula nahoru. !POZOR! laskonky skočí a nabydou objem
+- požadovaného tvaru lze dosáhnout několika způsoby: já hmotou "plnila" vykrajovátko na linecké cukroví přímo na pečící papír na plech. To jsem pak jenom vysunula nahoru. !POZOR! laskonky skočí a nabydou objem
 - 120°, 15 min, pak s otevřenými dvířky na 80° dosušit
 
 </div>
