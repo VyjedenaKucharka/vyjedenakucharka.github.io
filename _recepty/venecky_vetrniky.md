@@ -23,6 +23,41 @@ category: cukroví
 šp.
 : sůl
 
+### KRÉM VANILKOVÝ:
+
+3 dl
+: mléko plnotučné
+
+1 ks
+: vanilkový puding
+
+1 ks
+: cukr vanilka
+
+3 LŽ
+: cukr
+
+(
+: rum)
+
+### KRÉM KARAMELOVÝ:
+
+2 ks
+: šlehačka
+
+75g
+: cukr
+
+### POLEVA:
+
+cukr moučka
+
+citronová šťáva
+
+nebo
+
+karamel
+
 </div>
 
 ## Postup
