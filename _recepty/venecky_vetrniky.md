@@ -37,7 +37,7 @@ category: cukroví
 3 LŽ
 : cukr
 
-(
+(&nbsp;
 : rum)
 
 ### KRÉM KARAMELOVÝ:
@@ -50,13 +50,16 @@ category: cukroví
 
 ### POLEVA:
 
-cukr moučka
+&nbsp;
+: cukr moučka
 
-citronová šťáva
+&nbsp;
+: citronová šťáva
 
 nebo
 
-karamel
+&nbsp;
+: karamel
 
 </div>
 
@@ -70,5 +73,7 @@ karamel
 - nechat vychladnout, pak vmíchat **po 1 vejci**
 - věnečky vyrobíme cukrářským zdobítkem, je dobré odělat 2 kolečka na sebe, aby bylo možné je pak snadno rozkrojit
 - 200°, 8 minut **(troubu neotvírat)**, pak 180°, 20 minut
+- vanilkový krém: ze všech ingrediencí uvařit standartním způsobem puding
+- karamekový krém: z 1 šlehačky a cukru udělat karamel, nechat zcela vychladnout, a pak smíchat s vyšlehanou 2. šlehačkou
 
 </div>
