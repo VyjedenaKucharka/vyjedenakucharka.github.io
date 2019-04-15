@@ -31,16 +31,13 @@ l LŽ.
 &nbsp;
 : kari koření
 
-### Náplň:
+### Omáčka:
 
 &nbsp;
 : nové koření (mleté)
 
 &nbsp;
 : skořice mletá
-
-0,5 l
-: voda
 
 &nbsp;
 : perníkové koření
@@ -75,7 +72,7 @@ l LŽ.
 - uvařenou a vychladlou rýži smícháme s mletým masem, moukou, solí, pepřem a kari kořením
 - papriky očistíme, zbavíme semínek a blanek a řádně vycpeme masovou směsí
 - ze zbylé masové směsi uděláme menší kuličky
-- na pánvy osmahneme na oleji cibuli, to pak zaprášíme moukou a uděláme jíšku
+- na pánvi osmahneme na oleji cibuli, to pak zaprášíme moukou a uděláme jíšku
 - když je hotová, odstavíme z plamene a přidáme protlaky a všechno koření podle chuti
 - pak do všeho za důkladného míchání vlijeme vývar a vodu
 - do zapékací mísy s nepřilnavým dnem vložíme papriky a masové kuličky, zalijeme rajskou omáčkou, zakryjeme a necháme péct
