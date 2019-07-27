@@ -1,6 +1,6 @@
 ---
 layout: recept
-title:  "DORT meruňkový s mandlemi"
+title:  "DORT borůvkový a lá chees cake"
 category: sladké
 ---
 
@@ -8,70 +8,73 @@ category: sladké
 
 ### Korpus
 
-4 ks
-: vejce
-
-140 g
-: cukr
-
-4 LŽ
-: olej
-
-0,5 lž
-: mandlový extrakt
-
-60 g
-: hl. mouka
-
-30 g
-: kakao
-
-30 g
-: mandle jemně mleté
-
-### Marcipánová náplň
-
 250 g
-: marcipán (min. obsah mandlí 50%)
+: pol. mouky
 
-200 ml
-: meruňkové pyré (potřeba je 300g meruněk)
+šp.
+: skořice
 
-30 g
+šp.
+: sůl
+
+100 g
 : cukr
-
-### Čokoládová krém
-
-200 g
-: čokoláda na vaření
-
-150 ml
-: šlehačka
-
-2 lž
-: med
-
-60 g
-: máslo
-
-### Meruňkové želé
-
-600 g
-: vypecované meruňky
-
-60g
-: curk
 
 1 ks
-: želatina
+: cukr vanilka
 
-### Čokoládová poleva
+125 g
+: máslo (studené)
 
-200 g
-: čokoláda na vaření
+3 LŽ
+: citrónová šťáva
+
+1 ks
+: vejce
+
+### Ořechová náplň
+
+100 g
+: vlašské ořechy mleté
+
+2 LŽ
+: cukr
+
+0,5 lž
+: skořice
+
+1 ks
+: vejce
+
+### Borůvková náplň
+
+400 g
+: borůvek
+
+1 ks
+: vanilkový pudink
+
+40 g
+: cukr
+
+### Smetanová čepice
+
+3 ks
+: vejce
+
+4 LŽ
+: cukr
 
 200 ml
-: šlehačka
+: zakysaná smetana
+
+### Na dozdobení
+
+1 LŽ
+: maisena
+
+1 ks
+: cukr vanilka
 
 </div>
 
@@ -79,42 +82,17 @@ category: sladké
 
 <div class="postup" markdown="1">
 
-**Korpus**
-- žloutky vyšlehám do pěny s cukrem, olejem a mandlovým extraktem
-- přidám mouku a mleté mandle
-- nakonec přidám z bílků ušlehaný sníh
-- peču v předehřáté troubě na 180°, myšleno pro 20 cm formu
-- pak nechám zcela vychladnout
-
-**Marcipánová náplň**
-- meruňky omyju, vypeckuju a rozmixuju na pyré
-- přidám cukr a dám vařit. Stačí jen chvíli, účelem není hmotu zredukovat, ale tepelně zpracovat, aby se ovoce nekazilo
-- odstavím z plotny a vhodím na kousky nakrájený marcipán. Ten pak míchám a roztírám o okraje, až vznikne hladká hmota
-- nechám vychladnout (pokud je hmota příliš řídká, tak přidat marcipán. Ztuhnutím nezhoustne)
-
-**Čokoládový krém**
-- šlehačku s medem dám vařit. Jakmile začne na povrchu vřít, stáhnu z ohně a vhodím nalámanou čokoládu
-- čokoládu nechám polevit, a pak vymíchám do hladka
-- když vychladne na pokojovou teplotu, tak vmíchám změklé máslo
-- krém by měl mít takovou konzistenci, aby se dal natírat. Pokud moc teče, dám ho do lednice zchladit. Pravidelně ale kontroluji a míchám, aby nezhoustnul moc
-- když má krém správnou konzistenci, tak pak už ho udržuju při pokojové teplotě
-
-**Meruňkové želé**
-- asi 1/3 meruněk rozmixuji, zbytek pokrájím na kousky
-- vše dám vařit, aby kousky meruněk změkly
-- pak přidám želatinu a "dovařím" podle návodu (pokud jsou meruňky nevýrazné, tak přidám cukr a citónovou šťávu)
-- nechám částečně vychladnout
-
-**Sestavení dortu**
-- piškot rozříznu na 3 pláty
-- 1. plát položím na podnos a kolem upevním nastavitelný ráfek (pěkně těsně)
-- na to dám marcipánovou náplň
-- překryju 2. plátem
-- natřu čokoládovým krémem
-- zakončím 3. plátem a celé to zaleju želatinou
-- dám zchladit do lednice (ideálně přes noc)
-- nožem odříznu kraj od ráfku a vysvobodím dort
-- boky potřu čokoládovou plevou. Tu připravím podobně jako čokoládový krém (šlehačku k varu, pak vhodit čokoládu a rozmíchat)
-- nakonec můžu boky "posypat" mandlovými šponami
+- smíchat všechny ingredience na korpus, vypracovat hladkou hmotu a dát na 1 - 2 hodiny do lednice. Průbežne kontrolovat, nemělo by to být tvrdé jak kámen, ale ztuhnout by to trochu mělo
+- během chladnutí si připravím borůvkový kompot. Hrst borůvek si dám stranou, ostatni dám do kastrůlku a zaliju vodou, aby byly téměř ponořené. Pak vařím, některé můžu i rozmačkat, až jsou borůvky téměř rozvařené. Sundám z ohně a sliju - vodu zachovat!
+- z borůvkové vody, cukru a pudinku uvařím pudink dle návodu
+- vychladlé těsto vmačkám do dortové (22cm) formy
+- předehřát troubu na 200° a dát péct na 15 minut
+- smíchám ingredience na ořechovou náplň, pak opatrně rozetřít na upečený korpus. Poklást uvařenými borůvkami a zalít pudinkem.
+- Péct dalších 15 - 20 minut
+- nakonec si připravím smetanovou čepici. Smíchám zakysanou smetanu s cukrem a žloutky. Z bílů ušlehám sníh a opatrně vmíchám do smetanového základu
+- smetanovou vrstvu naliju na dort a peču dalších 20 - 30 minut, až to na povrcho začne zlátnout
+- vypnu troubu a nechám v otevřené troubě zcela vychladnout, pak můžu nechat uležet v lednici
+- zbylé borůvky dám do malého kastrůlku a zaliju vodou (pár si můžu nechat úplně stranou). Rozvařím je, trochu je rozmačkám a nakonec přidám maisenu a vanilkový cukr. Vařím dokud nevznikne "želé"
+- hotový dort trochu posypu moučkovým cukrem a doprostřed vyliju borůvkové želé, několik čerstvých borůvek a mám-li po ruce, tak dozdobím pár snítkami meduňky
 
 </div>
