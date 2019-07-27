@@ -110,10 +110,11 @@ category: sladké
 - 1. plát položím na podnos a kolem upevním nastavitelný ráfek (pěkně těsně)
 - na to dám marcipánovou náplň
 - překryju 2. plátem
-- natřu čokoládovým krémem (část si nechám na boky)
+- natřu čokoládovým krémem
 - zakončím 3. plátem a celé to zaleju želatinou
 - dám zchladit do lednice (ideálně přes noc)
 - nožem odříznu kraj od ráfku a vysvobodím dort
-- boky potřu zbytkem cokoládového krému a "posypu" mandlovými šponami
+- boky potřu čokoládovou plevou. Tu připravím podobně jako čokoládový krém (šlehačku k varu, pak vhodit čokoládu a rozmíchat)
+- nakonec můžu boky "posypat" mandlovými šponami
 
 </div>
