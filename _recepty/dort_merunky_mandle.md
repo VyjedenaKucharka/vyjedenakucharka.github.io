@@ -107,7 +107,7 @@ category: sladké
 
 **Sestavení dortu**
 - piškot rozříznu na 3 pláty
-- 1. plát položím na podnos a kolem upevním nastavitelný ráfek (pěkně těsně)
+- 1.plát položím na podnos a kolem upevním nastavitelný ráfek (pěkně těsně)
 - na to dám marcipánovou náplň
 - překryju 2. plátem
 - natřu čokoládovým krémem
