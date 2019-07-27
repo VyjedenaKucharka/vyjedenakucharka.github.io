@@ -1,6 +1,6 @@
 ---
 layout: recept
-title:  "Zeleninové CURRY"
+title:  "Zeleninové curry"
 category: slané
 ---
 
