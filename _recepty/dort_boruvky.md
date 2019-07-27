@@ -1,6 +1,6 @@
 ---
 layout: recept
-title:  "DORT borůvkový a lá chees cake"
+title:  "DORT borůvkový a lá cheese cake"
 category: sladké
 ---
 
