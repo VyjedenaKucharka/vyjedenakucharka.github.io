@@ -50,9 +50,12 @@ category: slané
 : máslo
 
 2 LŽ.
+: olej
+
+4 LŽ.
 : hl. mouka
 
-375ml
+750 ml
 : mléko
 
 2 ks
@@ -80,6 +83,6 @@ category: slané
 - postupně přidáme mléko (je dobré si ho předem ohřát) a necháme 4-5 minut vařit
 - nechat trochu zchladnout, pak zašlehat vejce a osolit
 - vaječným bešamelem přelijeme cukety, posypeme parmazánem a dáme zapéct
-- 180°, 20-25 minut
+- 180°, 40-45 minut
 
 </div>
