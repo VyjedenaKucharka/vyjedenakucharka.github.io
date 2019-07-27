@@ -10,6 +10,7 @@ category: polévky
 
 2 LŽ
 : olivový olej
+
 1 ks
 : cibule
 
