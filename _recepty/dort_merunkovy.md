@@ -83,14 +83,14 @@ category: sladké
 - žloutky vyšlehám do pěny s cukrem, olejem a mandlovým extraktem
 - přidám mouku a mleté mandle
 - nakonec přidám z bílků ušlehaný sníh
-- peču v předehřáté troubě na 180°
+- peču v předehřáté troubě na 180°, myšleno pro 20 cm formu
 - pak nechám zcela vychladnout
 
 **Marcipánová náplň**
 - meruňky omyju, vypeckuju a rozmixuju na pyré
 - přidám cukr a dám vařit. Stačí jen chvíli, účelem není hmotu zredukovat, ale tepelně zpracovat, aby se ovoce nekazilo
 - odstavím z plotny a vhodím na kousky nakrájený marcipán. Ten pak míchám a roztírám o okraje, až vznikne hladká hmota
-- nechám vychladnout
+- nechám vychladnout (pokud je hmota příliš řídká, tak přidat marcipán. Ztuhnutím nezhoustne)
 
 **Čokoládový krém**
 - šlehačku s medem dám vařit. Jakmile začne na povrchu vřít, stáhnu z ohně a vhodím nalámanou čokoládu
@@ -106,7 +106,7 @@ category: sladké
 - nechám částečně vychladnout
 
 **Sestavení dortu**
-- piškot roříznu na 3 pláty
+- piškot rozříznu na 3 pláty
 - 1. plát položím na podnos a kolem upevním nastavitelný ráfek (pěkně těsně)
 - na to dám marcipánovou náplň
 - překryju 2. plátem
