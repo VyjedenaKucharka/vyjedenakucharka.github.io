@@ -89,7 +89,8 @@ category: sladké
 
 <div class="postup" markdown="1">
 
-- suroviny na čokoládový dort si rozdelíme na 2 poloviny a z každé upečeme 2 stejné dorty, které pak prořízneme na 2 pláty. Vysledný dort bude mít menší průměr, ale bude vyšší
+**čokoládový dort**
+- ze surovin upečeme 2 dorty, které pak prořízneme na 2 pláty. Výsledný dort bude mít menší průměr, ale bude vyšší
 - uvaříme si kávu a hned do ní vhodíme kousky čokolády. Občas zamícháme, aby se čokoláda zcela rozpustila. Pozor: čokoláda se nerozpustí úplně do hladka
 - přidáme vanilkový extrakt
 - ve 2. misce smícháme mouku se solí, sodou, PdP a kakaem
@@ -97,6 +98,8 @@ category: sladké
 - nakonec přidám směs suchých surovin a šlehám na nízké otáčka, až vznikne hladké těsto
 - těsto naliju do formy o průměru 17 cm.
 - péct pouze na 150 - 160°, ca 45 min., pak ještě nechat 15 minut chladnout ve formě. Nakonec korpus vyndat a nechat zcela vychladnout
+
+**Karamelový krém**
 - 
 
 </div>
