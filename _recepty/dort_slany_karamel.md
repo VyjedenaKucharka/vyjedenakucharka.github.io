@@ -53,7 +53,7 @@ category: sladké
 : šlehačka
 
 250 g
-: máslo
+: máslo (měkké)
 
 1 LŽ
 : cukr moučka
@@ -100,6 +100,16 @@ category: sladké
 - péct pouze na 150 - 160°, ca 45 min., pak ještě nechat 15 minut chladnout ve formě. Nakonec korpus vyndat a nechat zcela vychladnout
 
 **Karamelový krém**
-- 
+- nejprve si připravím mléčný karamel. Nechám rozpustit cukr, pak opatrně přidám máslo a nakonec horkou smetanu. Pokud se obě části nespojí, tak to nechám na mírném ohni ještě jednou vzkypět a celou dobu míchám. Celé to nechám vychladnout
+- změklé máslo vyšlehám s cukrem na nejvyšší výkon, pak do něj po lžičkách zašlehám frischkäse a karamel.
+- pokud se krém srazí, tak ho trochu nahřeju nad párou a zamíchám. Konzistence by se měla upravit.
+- krém by měl vystačit na 1 vrstvu a celý povrch. Když potřu celý dort, tak ho dám (dostatečně) vychladit, jinak by se na něj nedala nalít horká čokoláda 
+
+**čokoláda**
+- nejrve nechám nad párou rozpustit čokoládu, pak přidám máslo a nakonec postupně horkou smetanu
+- z čokolády vyrobím na bokách dortu ztékající "rampouchy". Lžící leju čokoládu k okraji dortu a nechám ztéct. Raději méně a postupně přidávat
+
+**zdobení**
+- pokud jsem hračička, tak napíchnu na každé párátko jeden lískový oříšek. V malém rendlíčku nechám rozpustit cukr na karamel. Do toho pak namáčím ořechy. Párátko pak můžu někam zapíchnout, třeba do kartonu, a nechám zcela ztuhnout. 
 
 </div>
