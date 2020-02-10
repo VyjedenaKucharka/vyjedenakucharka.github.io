@@ -112,7 +112,7 @@ category: sladké
 - nejprv necháme zase rozpustit cukr
 - pak do něj opatrně vmícháme máslo
 - nakonec vlijeme horkou smetanu
-- pokud se obě části nespojí, tak to necháme na mírnén ohní znovu vskypět a průběžne mícháme
+- pokud se obě části nespojí, tak to necháme na mírném ohni znovu vskypět a průběžně mícháme
 
 **Skládání dortu**
 - korpus vodorovně rozkrojíme na 2 stejně vysoké pláty
