@@ -9,7 +9,7 @@ category: slané
 <div class="ingredience" markdown="1">
 
 2-3 ks
-: cuketa (nakrájené a lehce vymačkané)
+: cuketa
 
 80g
 : bílý jogurt
