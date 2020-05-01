@@ -8,29 +8,26 @@ category: sladké
 
 <div class="ingredience" markdown="1">
 
+4 ks
+: vejce
+
+160g
+: cukr
+
+2 ks
+: banány
+
 350g
 : hl. mouka
 
-1 lž.
-: soda
-
-2 lž.
+1 ks
 : PdP
 
-1 ks
+2 ks
 : vanilkový cukr
 
 ½ lž.
 : sůl
-
-200ml
-: slunečnicový olej
-
-160g
-: cukr (třtinový)
-
-2 ks
-: banány (rozmixovat)
 
 2 lž.
 : skořice
@@ -38,8 +35,8 @@ category: sladké
 hrst
 : rozinky (namočených v rumu)
 
-4 ks
-: vejce
+200ml
+: slunečnicový olej
 
 </div>
 
@@ -47,7 +44,10 @@ hrst
 
 <div class="postup" markdown="1">  
 
-- cukr utřeme s vejci, pak přidáme banány, pak vše suché a nakonec olej
-- pečeme na 165°, ca.50 min.
+- cukr utřeme s vejci
+- rozmixujeme a přidáme banány (zmražené lze rozmačkat)
+- pak přidáme vše až na olej
+- úplně nakonec vmícháme olej
+- nalijeme do formy a pečeme na 165°C cca 50 min
      
 </div>
