@@ -35,8 +35,8 @@ category: slané
 1 ks
 : limetka (šťáva)
     
-1 ks:
-cibulka
+1 ks
+: cibulka
 
 &nbsp;
 : koriandr (nať)
