@@ -88,6 +88,7 @@ category: slané
 - nechat vařit ještě 5 minut
 - dochutit solí a pepřem
 
+Nakonec:
 - mango oloupat a rozmixovat
 - nahrubo nasekat buráky
 - eintopf servírovat posypaný arašídy spolu s mangovým pyré
