@@ -93,4 +93,9 @@ Nakonec:
 - nahrubo nasekat buráky
 - eintopf servírovat posypaný arašídy spolu s mangovým pyré
 
+Možné variace:
+- je možno udělat i masovou verzi s kuřecím
+- jiná zelenina: paprika, pórek, lilek, mrkev, česnek
+- ozdobit čerstvým koriandrem
+
 </div>
