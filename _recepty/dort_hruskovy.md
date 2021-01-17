@@ -53,7 +53,7 @@ category: sladké
 250ml
 : šlehačka
 
-1-5 LŽ.
+1-2 LŽ.
 : cukr
 
 </div>
