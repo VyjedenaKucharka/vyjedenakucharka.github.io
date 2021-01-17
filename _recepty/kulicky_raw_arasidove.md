@@ -19,7 +19,7 @@ category: cukroví
 2 LŽ
 : arašídové máslo
 
-3/4 hrnku
+3/4hrnku
 : kešu
 
 1-2 lž
