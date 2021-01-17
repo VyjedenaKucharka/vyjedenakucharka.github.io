@@ -8,6 +8,8 @@ category: sladké
 
 <div class="ingredience" markdown="1">
 
+### TĚSTO:
+
 400g
 : hl. mouka
 
@@ -25,6 +27,8 @@ category: sladké
 
 1 ks
 : vejce
+
+### NÁPLŇ:
 
 750g
 : tvaroh
