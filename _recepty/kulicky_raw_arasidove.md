@@ -34,7 +34,7 @@ category: cukroví
 
 <div class="postup" markdown="1">  
 
-- ** den předem ** zalít datle horkou vodou a nechat přes noc. Druhý den pak oloupat z datlí slupky a rozmixovat do hladka
+- **den předem** zalít datle horkou vodou a nechat přes noc. Druhý den pak oloupat z datlí slupky a rozmixovat do hladka
 - přidat še ostatní (kešu samozřejmě nasekané na malé kousky)
 - udělat kuličky a obalit v oříškách
      
