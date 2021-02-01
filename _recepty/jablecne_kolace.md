@@ -39,7 +39,7 @@ category: sladké
 <div class="postup" markdown="1">  
 
 - jablka oloupat a nakrajet na kousky asi 1 cm velke
-- vsechny ostatni ingredience smichat, testo vypada trochu jako strouhanka
+- vsechny ostatni ingredience smichat, testo vypada trochu jako drobenka
 - nakonec pridat jablka a promichat
 - testo rozdelit treba nozem na 8 dilu a z kazdeho udelat trochu splacnutou kouli (ale ne moc)
 - 180°, horkovzduch, 20 - 25 minut
