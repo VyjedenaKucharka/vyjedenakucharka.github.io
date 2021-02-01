@@ -38,7 +38,7 @@ category: sladké
 
 <div class="postup" markdown="1">  
 
-- jablka oloupat a narkajet na kousky asi 1 cm velke
+- jablka oloupat a nakrajet na kousky asi 1 cm velke
 - vsechny ostatni ingredience smichat, testo vypada trochu jako strouhanka
 - nakonec pridat jablka a promichat
 - testo rozdelit treba nozem na 8 dilu a z kazdeho udelat trochu splacnutou kouli (ale ne moc)
