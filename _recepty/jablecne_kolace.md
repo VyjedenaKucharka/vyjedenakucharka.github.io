@@ -23,7 +23,7 @@ category: sladké
 100g
 : cukr
 
-½
+½ ks
 : PdP
 
 1ks
