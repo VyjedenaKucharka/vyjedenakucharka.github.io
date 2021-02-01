@@ -23,13 +23,13 @@ category: sladké
 100g
 : cukr
 
-1/2 
+½
 : PdP
 
 1ks
 : vanilkový cukr
 
-
+&nbsp;
 : cukr se skorici na na obaleni / posypani
 
 </div>
