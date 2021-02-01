@@ -8,19 +8,19 @@ category: sladké
 
 <div class="ingredience" markdown="1">
 
-300g
+375g
 : hr. mouka
 
-200g
+250g
 : tvaroh
 
-100ml
+125ml
 : olej
 
-3 ks
+3-4 ks
 : jablka (kyselejsi, stredne velka)
 
-100g
+125g
 : cukr
 
 ½ ks
@@ -41,7 +41,7 @@ category: sladké
 - jablka oloupat a nakrajet na kousky asi 1 cm velke
 - vsechny ostatni ingredience smichat, testo vypada trochu jako drobenka
 - nakonec pridat jablka a promichat
-- testo rozdelit treba nozem na 8 dilu a z kazdeho udelat trochu splacnutou kouli (ale ne moc)
+- testo rozdelit treba nozem na 10 dilu a z kazdeho udelat trochu splacnutou kouli (ale ne moc)
 - 180°, horkovzduch, 20 - 25 minut
 - nakonec jeste horke koule obalit v cukru se skorici a nebo jenom posypat
      
