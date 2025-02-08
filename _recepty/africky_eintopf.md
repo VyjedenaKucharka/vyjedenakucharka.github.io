@@ -21,7 +21,7 @@ category: slané
 2 ks
 : sladké brambory (na kostičky)
 
-1/2 hlávky
+1/2 hl.
 : zelí (na jemné proužky)
 
 1 LŽ
