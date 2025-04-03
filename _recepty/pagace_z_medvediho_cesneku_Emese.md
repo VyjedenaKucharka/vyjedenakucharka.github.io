@@ -1,7 +1,7 @@
 ---
 layout: recept
 title:  "Pagáče z medvědího česneku (Emese)"
-category: sladké
+category: slané
 ---
 
 <br>
